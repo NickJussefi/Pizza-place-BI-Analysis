@@ -1,0 +1,1001 @@
+order_id,item_price,quantity,item_cat,item_name,created_at,delivery_add1,delivery_add2,delivery_city,delivery_zip,delivery
+ORD_00001,14.00,8,Pizza,"Pizza Margherita Large",11:44:56,"9 Utah Court","Apt 238",Queens,0007Q,1
+ORD_00001,6.00,7,Side,"Garlic Bread",11:44:56,"9 Utah Court","Apt 238",Queens,0007Q,1
+ORD_00001,18.00,3,Pizza,"Pizza Parmigiana Large",11:44:56,"9 Utah Court","Apt 238",Queens,0007Q,1
+ORD_00001,18.00,1,Pizza,"Pizza Parmigiana Large",11:44:56,"9 Utah Court","Apt 238",Queens,0007Q,1
+ORD_00001,18.00,6,Pizza,"Pizza Napolitana Large",11:44:56,"9 Utah Court","Apt 238",Queens,0007Q,1
+ORD_00002,6.00,4,Dessert,"Strawberry Ice Cream",12:43:00,"2368 Menomonie Point","Room 910",Brooklyn,0005B,1
+ORD_00002,6.00,4,Beverage,"Coca Cola 1.5l",12:43:00,"2368 Menomonie Point","Room 910",Brooklyn,0005B,1
+ORD_00002,16.00,2,Pizza,"Pizza Napolitana Regular",12:43:00,"2368 Menomonie Point","Room 910",Brooklyn,0005B,1
+ORD_00002,3.00,6,Beverage,"Diet Coke 33cl",12:43:00,"2368 Menomonie Point","Room 910",Brooklyn,0005B,1
+ORD_00003,6.00,6,Beverage,"7 Up 1.5l",12:03:27,"1 Lighthouse Bay Plaza",,Bronx,0004B,0
+ORD_00003,4.00,6,Beverage,"Sparkling Water 1.5l",12:03:27,"1 Lighthouse Bay Plaza",,Bronx,0004B,0
+ORD_00003,19.00,6,Pizza,"Pizza Diavola Large",12:03:27,"1 Lighthouse Bay Plaza",,Bronx,0004B,0
+ORD_00004,6.00,6,Dessert,"Vanilla Ice Cream",20:33:41,"99 Continental Pass",,Bronx,0004B,1
+ORD_00004,3.00,1,Beverage,"Coca Cola 33cl",20:33:41,"99 Continental Pass",,Bronx,0004B,1
+ORD_00004,6.00,5,Beverage,"Coca Cola 1.5l",20:33:41,"99 Continental Pass",,Bronx,0004B,1
+ORD_00005,2.00,8,Beverage,"Sparkling Water 33cl",11:36:00,"7530 Elka Place",,Brooklyn,0005B,1
+ORD_00005,12.00,3,Pizza,"Pizza Margherita Regular",11:36:00,"7530 Elka Place",,Brooklyn,0005B,1
+ORD_00006,5.00,7,Side,Breadsticks,22:20:10,"7530 Elka Place",,Brooklyn,0005B,0
+ORD_00006,7.00,10,Side,"Caesar Salad",22:20:10,"7530 Elka Place",,Brooklyn,0005B,0
+ORD_00007,5.00,1,Dessert,"Chocolate Brownie",18:49:00,"30096 School Center",,Manhattan,0001M,1
+ORD_00008,17.00,8,Pizza,"Pizza Pepperoni Large",10:30:20,"88 Hanover Drive",,Bronx,0004B,1
+ORD_00008,6.00,9,Dessert,"Pistachio Ice Crearn",10:30:20,"88 Hanover Drive",,Bronx,0004B,1
+ORD_00009,6.00,5,Dessert,"Chocolate Ice Cream",21:56:27,"038 Loftsgordon Way",,Queens,0007Q,0
+ORD_00009,18.00,5,Pizza,"Pizza Napolitana Large",21:56:27,"038 Loftsgordon Way",,Queens,0007Q,0
+ORD_00010,17.00,7,Pizza,"Pizza Seafood Regular",22:32:33,"178 Morning Place","Apt 1530",Bronx,0004B,0
+ORD_00010,16.00,3,Pizza,"Pizza Quattro Formaggi Regular",22:32:33,"178 Morning Place","Apt 1530",Bronx,0004B,0
+ORD_00010,3.00,3,Beverage,"7 Up 33cl",22:32:33,"178 Morning Place","Apt 1530",Bronx,0004B,0
+ORD_00010,12.00,9,Pizza,"Pizza Margherita Regular",22:32:33,"178 Morning Place","Apt 1530",Bronx,0004B,0
+ORD_00010,17.00,10,Pizza,"Pizza Hawaiian Large",22:32:33,"178 Morning Place","Apt 1530",Bronx,0004B,0
+ORD_00011,2.00,10,Beverage,"Sparkling Water 33cl",11:51:25,"8 Kropf Crossing",,Manhattan,0001M,1
+ORD_00011,14.00,5,Pizza,"Pizza Margherita Large",11:51:25,"8 Kropf Crossing",,Manhattan,0001M,1
+ORD_00011,17.00,6,Pizza,"Pizza Pepperoni Large",11:51:25,"8 Kropf Crossing",,Manhattan,0001M,1
+ORD_00011,18.00,5,Pizza,"Pizza Parmigiana Large",11:51:25,"8 Kropf Crossing",,Manhattan,0001M,1
+ORD_00012,5.00,1,Dessert,"Chocolate Brownie",22:54:55,"95505 Oakridge Alley",,Brooklyn,0005B,1
+ORD_00012,6.00,4,Dessert,"Vanilla Ice Cream",22:54:55,"95505 Oakridge Alley",,Brooklyn,0005B,1
+ORD_00012,3.00,3,Beverage,"Coca Cola 33cl",22:54:55,"95505 Oakridge Alley",,Brooklyn,0005B,1
+ORD_00013,7.00,8,Side,"Chicken Wings",22:35:32,"1 Almo Road",,Brooklyn,0005B,0
+ORD_00013,15.00,6,Pizza,"Pizza Parmigiana Regular",22:35:32,"1 Almo Road",,Brooklyn,0005B,0
+ORD_00013,17.00,10,Pizza,"Pizza Hawaiian Large",22:35:32,"1 Almo Road",,Brooklyn,0005B,0
+ORD_00014,19.00,1,Pizza,"Pizza Diavola Large",19:57:59,"35722 Russell Street",,"Staten Island",0010SI,1
+ORD_00014,16.00,5,Pizza,"Pizza Diavola Regular",19:57:59,"35722 Russell Street",,"Staten Island",0010SI,1
+ORD_00014,16.00,1,Pizza,"Pizza Diavola Regular",19:57:59,"35722 Russell Street",,"Staten Island",0010SI,1
+ORD_00014,18.00,1,Pizza,"Pizza Parmigiana Large",19:57:59,"35722 Russell Street",,"Staten Island",0010SI,1
+ORD_00015,6.00,10,Side,"Garlic Bread",13:28:00,"86 Jay Alley",,Queens,0007Q,1
+ORD_00015,20.00,8,Pizza,"Pizza Seafood Large",13:28:00,"86 Jay Alley",,Queens,0007Q,1
+ORD_00016,17.00,3,Pizza,"Pizza Pepperoni Large",11:29:45,"5267 Melvin Pass",,Brooklyn,0005B,0
+ORD_00016,12.00,4,Pizza,"Pizza Margherita Regular",11:29:45,"5267 Melvin Pass",,Brooklyn,0005B,0
+ORD_00016,17.00,3,Pizza,"Pizza Hawaiian Large",11:29:45,"5267 Melvin Pass",,Brooklyn,0005B,0
+ORD_00017,16.00,7,Pizza,"Pizza Diavola Regular",13:11:53,"473 Colorado Junction",,"Staten Island",0010SI,1
+ORD_00018,3.00,5,Beverage,"Coca Cola 33cl",22:37:05,"13378 Hoepker Point",,Brooklyn,0005B,1
+ORD_00018,2.00,3,Beverage,"Sparkling Water 33cl",22:37:05,"13378 Hoepker Point",,Brooklyn,0005B,1
+ORD_00019,6.00,3,Dessert,"Strawberry Ice Cream",22:41:24,"79992 Bultman Pass",,Queens,0007Q,0
+ORD_00019,6.00,5,Beverage,"7 Up 1.5l",22:41:24,"79992 Bultman Pass",,Queens,0007Q,0
+ORD_00019,18.00,10,Pizza,"Pizza Napolitana Large",22:41:24,"79992 Bultman Pass",,Queens,0007Q,0
+ORD_00019,6.00,8,Dessert,"Strawberry Ice Cream",22:41:24,"79992 Bultman Pass",,Queens,0007Q,0
+ORD_00019,16.00,10,Pizza,"Pizza Napolitana Regular",22:41:24,"79992 Bultman Pass",,Queens,0007Q,0
+ORD_00019,17.00,9,Pizza,"Pizza Hawaiian Large",22:41:24,"79992 Bultman Pass",,Queens,0007Q,0
+ORD_00020,6.00,1,Beverage,"Coca Cola 1.5l",20:54:31,"5170 Armistice Hill","Room 589","Staten Island",0010SI,0
+ORD_00023,7.00,3,Side,"Chicken Wings",21:17:49,"6241 Artisan Center","Apt 424",Queens,0007Q,0
+ORD_00023,3.00,10,Beverage,"Diet Coke 33cl",21:17:49,"6241 Artisan Center","Apt 424",Queens,0007Q,0
+ORD_00023,4.00,7,Beverage,"Sparkling Water 1.5l",21:17:49,"6241 Artisan Center","Apt 424",Queens,0007Q,0
+ORD_00023,3.00,3,Beverage,"Diet Coke 33cl",21:17:49,"6241 Artisan Center","Apt 424",Queens,0007Q,0
+ORD_00024,14.00,2,Pizza,"Pizza Margherita Large",22:50:26,"71388 Ridgeview Point",,Brooklyn,0005B,1
+ORD_00024,19.00,5,Pizza,"Pizza Diavola Large",22:50:26,"71388 Ridgeview Point",,Brooklyn,0005B,1
+ORD_00025,6.00,8,Dessert,"Chocolate Ice Cream",11:00:04,"79992 Bultman Pass",,Queens,0007Q,1
+ORD_00025,4.00,9,Beverage,"Sparkling Water 1.5l",11:00:04,"79992 Bultman Pass",,Queens,0007Q,1
+ORD_00026,7.00,3,Dessert,"Banoffee Pie",20:25:04,"038 Loftsgordon Way",,Queens,0007Q,0
+ORD_00026,14.00,6,Pizza,"Pizza Margherita Large",20:25:04,"038 Loftsgordon Way",,Queens,0007Q,0
+ORD_00026,4.00,6,Beverage,"Sparkling Water 1.5l",20:25:04,"038 Loftsgordon Way",,Queens,0007Q,0
+ORD_00027,19.00,8,Pizza,"Pizza Diavola Large",21:08:49,"67019 Mendota Crossing",,Brooklyn,0005B,1
+ORD_00027,15.00,1,Pizza,"Pizza Pepperoni Regular",21:08:49,"67019 Mendota Crossing",,Brooklyn,0005B,1
+ORD_00027,18.00,3,Pizza,"Pizza Napolitana Large",21:08:49,"67019 Mendota Crossing",,Brooklyn,0005B,1
+ORD_00027,17.00,8,Pizza,"Pizza Pepperoni Large",21:08:49,"67019 Mendota Crossing",,Brooklyn,0005B,1
+ORD_00027,7.00,1,Dessert,"Banoffee Pie",21:08:49,"67019 Mendota Crossing",,Brooklyn,0005B,1
+ORD_00027,2.00,1,Beverage,"Sparkling Water 33cl",21:08:49,"67019 Mendota Crossing",,Brooklyn,0005B,1
+ORD_00028,6.00,7,Beverage,"Fanta 1.5l",12:50:07,"83 Oriole Road","Room 1567",Queens,0007Q,1
+ORD_00028,19.00,3,Pizza,"Pizza Quattro Formaggi Large",12:50:07,"83 Oriole Road","Room 1567",Queens,0007Q,1
+ORD_00028,16.00,9,Pizza,"Pizza Diavola Regular",12:50:07,"83 Oriole Road","Room 1567",Queens,0007Q,1
+ORD_00028,2.00,6,Beverage,"Sparkling Water 33cl",12:50:07,"83 Oriole Road","Room 1567",Queens,0007Q,1
+ORD_00029,16.00,9,Pizza,"Pizza Napolitana Regular",19:41:45,"43 Red Cloud Crossing",,"Staten Island",0010SI,0
+ORD_00030,5.00,8,Side,Breadsticks,12:18:45,"9 Duke Way",,Queens,0007Q,0
+ORD_00031,5.00,9,Dessert,"Fruit salad",13:30:51,"0970 Valley Edge Circle","17th Floor",Queens,0007Q,1
+ORD_00031,5.00,1,Dessert,"Chocolate Brownie",13:30:51,"0970 Valley Edge Circle","17th Floor",Queens,0007Q,1
+ORD_00031,3.00,10,Beverage,"Diet Coke 33cl",13:30:51,"0970 Valley Edge Circle","17th Floor",Queens,0007Q,1
+ORD_00033,5.00,8,Dessert,"Fruit salad",12:26:50,"5093 Westridge Way",,Brooklyn,0005B,0
+ORD_00033,3.00,6,Beverage,"7 Up 33cl",12:26:50,"5093 Westridge Way",,Brooklyn,0005B,0
+ORD_00033,20.00,4,Pizza,"Pizza Seafood Large",12:26:50,"5093 Westridge Way",,Brooklyn,0005B,0
+ORD_00034,2.00,10,Beverage,"Sparkling Water 33cl",21:36:01,"0566 Bashford Street","Apt 1112",Brooklyn,0005B,1
+ORD_00034,20.00,6,Pizza,"Pizza Seafood Large",21:36:01,"0566 Bashford Street","Apt 1112",Brooklyn,0005B,1
+ORD_00035,17.00,4,Pizza,"Pizza Seafood Regular",20:43:26,"5415 Spohn Junction",,Queens,0007Q,1
+ORD_00036,6.00,6,Beverage,"Coca Cola 1.5l",22:17:09,"4458 Twin Pines Crossing","PO Box 93258",Brooklyn,0005B,0
+ORD_00036,2.00,5,Beverage,"Sparkling Water 33cl",22:17:09,"4458 Twin Pines Crossing","PO Box 93258",Brooklyn,0005B,0
+ORD_00036,6.00,4,Beverage,"Coca Cola 1.5l",22:17:09,"4458 Twin Pines Crossing","PO Box 93258",Brooklyn,0005B,0
+ORD_00036,3.00,3,Beverage,"7 Up 33cl",22:17:09,"4458 Twin Pines Crossing","PO Box 93258",Brooklyn,0005B,0
+ORD_00037,19.00,6,Pizza,"Pizza Quattro Formaggi Large",22:44:07,"13 Fulton Avenue","Room 1496",Manhattan,0001M,1
+ORD_00037,14.00,5,Pizza,"Pizza Margherita Large",22:44:07,"13 Fulton Avenue","Room 1496",Manhattan,0001M,1
+ORD_00038,20.00,7,Pizza,"Pizza Seafood Large",18:40:24,"73 Longview Point",,Bronx,0004B,1
+ORD_00038,15.00,6,Pizza,"Pizza Hawaiian Regular",18:40:24,"73 Longview Point",,Bronx,0004B,1
+ORD_00039,6.00,9,Dessert,"Vanilla Ice Cream",13:14:26,"693 Bellgrove Crossing",,Brooklyn,0005B,0
+ORD_00039,4.00,7,Beverage,"Sparkling Water 1.5l",13:14:26,"693 Bellgrove Crossing",,Brooklyn,0005B,0
+ORD_00039,6.00,3,Beverage,"Diet Coke 1.5l",13:14:26,"693 Bellgrove Crossing",,Brooklyn,0005B,0
+ORD_00040,18.00,2,Pizza,"Pizza Napolitana Large",22:15:01,"13 Fulton Avenue","Room 1496",Manhattan,0001M,0
+ORD_00040,19.00,9,Pizza,"Pizza Quattro Formaggi Large",22:15:01,"13 Fulton Avenue","Room 1496",Manhattan,0001M,0
+ORD_00040,18.00,2,Pizza,"Pizza Parmigiana Large",22:15:01,"13 Fulton Avenue","Room 1496",Manhattan,0001M,0
+ORD_00041,3.00,6,Beverage,"Coca Cola 33cl",13:26:39,"226 Scott Center",,Brooklyn,0005B,1
+ORD_00041,7.00,10,Side,"Caesar Salad",13:26:39,"226 Scott Center",,Brooklyn,0005B,1
+ORD_00042,14.00,5,Pizza,"Pizza Margherita Large",22:39:53,"30 Fremont Pass",,Queens,0007Q,1
+ORD_00043,7.00,8,Side,"Caesar Salad",21:36:37,"406 Kropf Circle",,"Staten Island",0010SI,0
+ORD_00043,16.00,2,Pizza,"Pizza Napolitana Regular",21:36:37,"406 Kropf Circle",,"Staten Island",0010SI,0
+ORD_00043,6.00,2,Beverage,"7 Up 1.5l",21:36:37,"406 Kropf Circle",,"Staten Island",0010SI,0
+ORD_00043,16.00,2,Pizza,"Pizza Diavola Regular",21:36:37,"406 Kropf Circle",,"Staten Island",0010SI,0
+ORD_00043,14.00,4,Pizza,"Pizza Margherita Large",21:36:37,"406 Kropf Circle",,"Staten Island",0010SI,0
+ORD_00043,19.00,4,Pizza,"Pizza Quattro Formaggi Large",21:36:37,"406 Kropf Circle",,"Staten Island",0010SI,0
+ORD_00044,17.00,4,Pizza,"Pizza Pepperoni Large",21:34:40,"4 Maple Wood Street",,Manhattan,0001M,1
+ORD_00044,17.00,4,Pizza,"Pizza Seafood Regular",21:34:40,"4 Maple Wood Street",,Manhattan,0001M,1
+ORD_00044,16.00,6,Pizza,"Pizza Napolitana Regular",21:34:40,"4 Maple Wood Street",,Manhattan,0001M,1
+ORD_00044,16.00,4,Pizza,"Pizza Napolitana Regular",21:34:40,"4 Maple Wood Street",,Manhattan,0001M,1
+ORD_00044,5.00,4,Dessert,"Fruit salad",21:34:40,"4 Maple Wood Street",,Manhattan,0001M,1
+ORD_00046,2.00,9,Beverage,"Sparkling Water 33cl",11:42:47,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+ORD_00047,17.00,8,Pizza,"Pizza Seafood Regular",19:16:58,"7407 Service Court",,Manhattan,0001M,1
+ORD_00047,3.00,8,Beverage,"7 Up 33cl",19:16:58,"7407 Service Court",,Manhattan,0001M,1
+ORD_00048,4.00,2,Beverage,"Sparkling Water 1.5l",13:05:50,"176 Evergreen Junction",,Brooklyn,0005B,1
+ORD_00048,3.00,4,Beverage,"Coca Cola 33cl",13:05:50,"176 Evergreen Junction",,Brooklyn,0005B,1
+ORD_00048,6.00,4,Dessert,"Chocolate Ice Cream",13:05:50,"176 Evergreen Junction",,Brooklyn,0005B,1
+ORD_00048,6.00,7,Dessert,"Strawberry Ice Cream",13:05:50,"176 Evergreen Junction",,Brooklyn,0005B,1
+ORD_00048,6.00,2,Dessert,"Pistachio Ice Crearn",13:05:50,"176 Evergreen Junction",,Brooklyn,0005B,1
+ORD_00049,6.00,9,Beverage,"Coca Cola 1.5l",10:39:24,"2018 Holmberg Point",,Bronx,0004B,0
+ORD_00049,15.00,6,Pizza,"Pizza Parmigiana Regular",10:39:24,"2018 Holmberg Point",,Bronx,0004B,0
+ORD_00049,14.00,7,Pizza,"Pizza Margherita Large",10:39:24,"2018 Holmberg Point",,Bronx,0004B,0
+ORD_00050,17.00,3,Pizza,"Pizza Seafood Regular",19:29:13,"473 Colorado Junction",,"Staten Island",0010SI,0
+ORD_00051,15.00,4,Pizza,"Pizza Hawaiian Regular",21:06:32,"730 Mallard Point",,"Staten Island",0010SI,1
+ORD_00051,19.00,6,Pizza,"Pizza Quattro Formaggi Large",21:06:32,"730 Mallard Point",,"Staten Island",0010SI,1
+ORD_00052,3.00,6,Beverage,"Diet Coke 33cl",12:21:48,"8085 Ridgeway Trail",,Brooklyn,0005B,1
+ORD_00052,3.00,2,Beverage,"7 Up 33cl",12:21:48,"8085 Ridgeway Trail",,Brooklyn,0005B,1
+ORD_00053,15.00,2,Pizza,"Pizza Hawaiian Regular",11:14:42,"980 Wayridge Way",,Queens,0007Q,0
+ORD_00053,16.00,1,Pizza,"Pizza Diavola Regular",11:14:42,"980 Wayridge Way",,Queens,0007Q,0
+ORD_00053,14.00,7,Pizza,"Pizza Margherita Large",11:14:42,"980 Wayridge Way",,Queens,0007Q,0
+ORD_00054,2.00,9,Beverage,"Sparkling Water 33cl",21:45:29,"87526 3rd Place",,Brooklyn,0005B,1
+ORD_00054,6.00,1,Beverage,"Diet Coke 1.5l",21:45:29,"87526 3rd Place",,Brooklyn,0005B,1
+ORD_00054,14.00,6,Pizza,"Pizza Margherita Large",21:45:29,"87526 3rd Place",,Brooklyn,0005B,1
+ORD_00056,6.00,5,Beverage,"Diet Coke 1.5l",13:43:45,"87050 Valley Edge Plaza",,Manhattan,0001M,0
+ORD_00056,16.00,9,Pizza,"Pizza Quattro Formaggi Regular",13:43:45,"87050 Valley Edge Plaza",,Manhattan,0001M,0
+ORD_00056,6.00,6,Beverage,"Coca Cola 1.5l",13:43:45,"87050 Valley Edge Plaza",,Manhattan,0001M,0
+ORD_00057,17.00,1,Pizza,"Pizza Pepperoni Large",19:10:11,"3 Bay Junction","Suite 42","Staten Island",0010SI,1
+ORD_00058,7.00,4,Side,"Caesar Salad",13:32:06,"30096 School Center",,Manhattan,0001M,1
+ORD_00059,17.00,5,Pizza,"Pizza Pepperoni Large",11:20:33,"0 Arapahoe Pass",,Brooklyn,0005B,0
+ORD_00059,3.00,5,Beverage,"Fanta 33cl",11:20:33,"0 Arapahoe Pass",,Brooklyn,0005B,0
+ORD_00060,19.00,2,Pizza,"Pizza Diavola Large",20:50:34,"896 Duke Junction","8th Floor","Staten Island",0010SI,0
+ORD_00060,3.00,3,Beverage,"Fanta 33cl",20:50:34,"896 Duke Junction","8th Floor","Staten Island",0010SI,0
+ORD_00060,7.00,2,Side,"Chicken Wings",20:50:34,"896 Duke Junction","8th Floor","Staten Island",0010SI,0
+ORD_00060,6.00,8,Dessert,"Vanilla Ice Cream",20:50:34,"896 Duke Junction","8th Floor","Staten Island",0010SI,0
+ORD_00060,7.00,1,Dessert,"Banoffee Pie",20:50:34,"896 Duke Junction","8th Floor","Staten Island",0010SI,0
+ORD_00062,3.00,1,Beverage,"7 Up 33cl",12:10:34,"1 Lakeland Pass",,Bronx,0004B,1
+ORD_00062,6.00,10,Beverage,"Coca Cola 1.5l",12:10:34,"1 Lakeland Pass",,Bronx,0004B,1
+ORD_00063,6.00,3,Side,"Garlic Bread",19:26:36,"259 Arrowood Avenue",,Manhattan,0001M,0
+ORD_00063,6.00,8,Dessert,"Chocolate Ice Cream",19:26:36,"259 Arrowood Avenue",,Manhattan,0001M,0
+ORD_00063,3.00,1,Beverage,"Diet Coke 33cl",19:26:36,"259 Arrowood Avenue",,Manhattan,0001M,0
+ORD_00063,15.00,2,Pizza,"Pizza Parmigiana Regular",19:26:36,"259 Arrowood Avenue",,Manhattan,0001M,0
+ORD_00064,5.00,9,Dessert,"Chocolate Brownie",18:44:30,"71961 Mendota Alley",,Manhattan,0001M,1
+ORD_00064,15.00,9,Pizza,"Pizza Hawaiian Regular",18:44:30,"71961 Mendota Alley",,Manhattan,0001M,1
+ORD_00064,16.00,7,Pizza,"Pizza Quattro Formaggi Regular",18:44:30,"71961 Mendota Alley",,Manhattan,0001M,1
+ORD_00064,3.00,1,Beverage,"Fanta 33cl",18:44:30,"71961 Mendota Alley",,Manhattan,0001M,1
+ORD_00064,7.00,4,Side,"Caesar Salad",18:44:30,"71961 Mendota Alley",,Manhattan,0001M,1
+ORD_00065,6.00,3,Dessert,"Strawberry Ice Cream",20:54:42,"847 Blackbird Road",,Brooklyn,0005B,1
+ORD_00065,6.00,6,Beverage,"7 Up 1.5l",20:54:42,"847 Blackbird Road",,Brooklyn,0005B,1
+ORD_00065,20.00,2,Pizza,"Pizza Seafood Large",20:54:42,"847 Blackbird Road",,Brooklyn,0005B,1
+ORD_00065,6.00,7,Dessert,"Pistachio Ice Crearn",20:54:42,"847 Blackbird Road",,Brooklyn,0005B,1
+ORD_00066,16.00,4,Pizza,"Pizza Diavola Regular",11:16:16,"61054 Monument Crossing",,Manhattan,0001M,0
+ORD_00066,12.00,5,Pizza,"Pizza Margherita Regular",11:16:16,"61054 Monument Crossing",,Manhattan,0001M,0
+ORD_00066,14.00,9,Pizza,"Pizza Margherita Large",11:16:16,"61054 Monument Crossing",,Manhattan,0001M,0
+ORD_00066,2.00,10,Beverage,"Sparkling Water 33cl",11:16:16,"61054 Monument Crossing",,Manhattan,0001M,0
+ORD_00066,5.00,10,Side,Breadsticks,11:16:16,"61054 Monument Crossing",,Manhattan,0001M,0
+ORD_00066,19.00,7,Pizza,"Pizza Diavola Large",11:16:16,"61054 Monument Crossing",,Manhattan,0001M,0
+ORD_00066,3.00,2,Beverage,"Diet Coke 33cl",11:16:16,"61054 Monument Crossing",,Manhattan,0001M,0
+ORD_00067,18.00,6,Pizza,"Pizza Parmigiana Large",12:40:49,"61054 Monument Crossing",,Manhattan,0001M,1
+ORD_00067,2.00,4,Beverage,"Sparkling Water 33cl",12:40:49,"61054 Monument Crossing",,Manhattan,0001M,1
+ORD_00068,6.00,4,Beverage,"7 Up 1.5l",18:32:49,"61054 Monument Crossing",,Manhattan,0001M,1
+ORD_00068,16.00,2,Pizza,"Pizza Quattro Formaggi Regular",18:32:49,"61054 Monument Crossing",,Manhattan,0001M,1
+ORD_00068,7.00,7,Side,"Chicken Wings",18:32:49,"61054 Monument Crossing",,Manhattan,0001M,1
+ORD_00068,6.00,1,Dessert,"Chocolate Ice Cream",18:32:49,"61054 Monument Crossing",,Manhattan,0001M,1
+ORD_00068,17.00,8,Pizza,"Pizza Hawaiian Large",18:32:49,"61054 Monument Crossing",,Manhattan,0001M,1
+ORD_00069,19.00,2,Pizza,"Pizza Diavola Large",12:28:39,"1 Anhalt Circle",,Queens,0007Q,0
+ORD_00069,19.00,2,Pizza,"Pizza Quattro Formaggi Large",12:28:39,"1 Anhalt Circle",,Queens,0007Q,0
+ORD_00069,3.00,1,Beverage,"Coca Cola 33cl",12:28:39,"1 Anhalt Circle",,Queens,0007Q,0
+ORD_00070,5.00,6,Dessert,"Fruit salad",22:18:19,"1668 Emmet Park",,Manhattan,0001M,0
+ORD_00070,6.00,9,Beverage,"7 Up 1.5l",22:18:19,"1668 Emmet Park",,Manhattan,0001M,0
+ORD_00070,16.00,7,Pizza,"Pizza Quattro Formaggi Regular",22:18:19,"1668 Emmet Park",,Manhattan,0001M,0
+ORD_00071,4.00,6,Beverage,"Sparkling Water 1.5l",20:45:45,"1668 Emmet Park",,Manhattan,0001M,1
+ORD_00071,16.00,7,Pizza,"Pizza Napolitana Regular",20:45:45,"1668 Emmet Park",,Manhattan,0001M,1
+ORD_00071,5.00,6,Dessert,"Fruit salad",20:45:45,"1668 Emmet Park",,Manhattan,0001M,1
+ORD_00072,12.00,4,Pizza,"Pizza Margherita Regular",20:41:16,"61054 Monument Crossing",,Manhattan,0001M,1
+ORD_00072,3.00,1,Beverage,"Coca Cola 33cl",20:41:16,"61054 Monument Crossing",,Manhattan,0001M,1
+ORD_00073,3.00,4,Beverage,"Diet Coke 33cl",19:47:51,"61054 Monument Crossing",,Manhattan,0001M,0
+ORD_00074,15.00,1,Pizza,"Pizza Pepperoni Regular",10:58:20,"147 Arizona Plaza",,"Staten Island",0010SI,1
+ORD_00074,6.00,1,Dessert,"Pistachio Ice Crearn",10:58:20,"147 Arizona Plaza",,"Staten Island",0010SI,1
+ORD_00074,6.00,5,Beverage,"Diet Coke 1.5l",10:58:20,"147 Arizona Plaza",,"Staten Island",0010SI,1
+ORD_00075,3.00,7,Beverage,"Fanta 33cl",22:01:09,"147 Arizona Plaza",,"Staten Island",0010SI,1
+ORD_00075,16.00,8,Pizza,"Pizza Diavola Regular",22:01:09,"147 Arizona Plaza",,"Staten Island",0010SI,1
+ORD_00075,19.00,10,Pizza,"Pizza Quattro Formaggi Large",22:01:09,"147 Arizona Plaza",,"Staten Island",0010SI,1
+ORD_00075,4.00,3,Beverage,"Sparkling Water 1.5l",22:01:09,"147 Arizona Plaza",,"Staten Island",0010SI,1
+ORD_00076,17.00,4,Pizza,"Pizza Pepperoni Large",12:01:12,"147 Arizona Plaza",,"Staten Island",0010SI,0
+ORD_00076,19.00,9,Pizza,"Pizza Diavola Large",12:01:12,"147 Arizona Plaza",,"Staten Island",0010SI,0
+ORD_00076,16.00,10,Pizza,"Pizza Quattro Formaggi Regular",12:01:12,"147 Arizona Plaza",,"Staten Island",0010SI,0
+ORD_00077,19.00,5,Pizza,"Pizza Quattro Formaggi Large",19:09:51,"147 Arizona Plaza",,"Staten Island",0010SI,1
+ORD_00077,2.00,3,Beverage,"Sparkling Water 33cl",19:09:51,"147 Arizona Plaza",,"Staten Island",0010SI,1
+ORD_00077,6.00,7,Beverage,"Diet Coke 1.5l",19:09:51,"147 Arizona Plaza",,"Staten Island",0010SI,1
+ORD_00078,6.00,8,Side,"Garlic Bread",18:53:37,"147 Arizona Plaza",,"Staten Island",0010SI,1
+ORD_00078,12.00,4,Pizza,"Pizza Margherita Regular",18:53:37,"147 Arizona Plaza",,"Staten Island",0010SI,1
+ORD_00078,15.00,9,Pizza,"Pizza Pepperoni Regular",18:53:37,"147 Arizona Plaza",,"Staten Island",0010SI,1
+ORD_00078,5.00,2,Dessert,"Fruit salad",18:53:37,"147 Arizona Plaza",,"Staten Island",0010SI,1
+ORD_00080,6.00,9,Side,"Garlic Bread",12:45:40,"147 Arizona Plaza",,"Staten Island",0010SI,0
+ORD_00080,6.00,9,Side,"Garlic Bread",12:45:40,"147 Arizona Plaza",,"Staten Island",0010SI,0
+ORD_00080,3.00,2,Beverage,"Fanta 33cl",12:45:40,"147 Arizona Plaza",,"Staten Island",0010SI,0
+ORD_00081,5.00,10,Side,Breadsticks,12:49:23,"147 Arizona Plaza",,"Staten Island",0010SI,1
+ORD_00081,3.00,3,Beverage,"7 Up 33cl",12:49:23,"147 Arizona Plaza",,"Staten Island",0010SI,1
+ORD_00081,3.00,1,Beverage,"Fanta 33cl",12:49:23,"147 Arizona Plaza",,"Staten Island",0010SI,1
+ORD_00081,6.00,2,Beverage,"Diet Coke 1.5l",12:49:23,"147 Arizona Plaza",,"Staten Island",0010SI,1
+ORD_00082,2.00,10,Beverage,"Sparkling Water 33cl",22:33:58,"147 Arizona Plaza",,"Staten Island",0010SI,1
+ORD_00082,6.00,7,Dessert,"Strawberry Ice Cream",22:33:58,"147 Arizona Plaza",,"Staten Island",0010SI,1
+ORD_00082,5.00,3,Dessert,"Chocolate Brownie",22:33:58,"147 Arizona Plaza",,"Staten Island",0010SI,1
+ORD_00085,2.00,5,Beverage,"Sparkling Water 33cl",12:46:05,"147 Arizona Plaza",,"Staten Island",0010SI,1
+ORD_00085,6.00,5,Dessert,"Strawberry Ice Cream",12:46:05,"147 Arizona Plaza",,"Staten Island",0010SI,1
+ORD_00085,6.00,1,Dessert,"Chocolate Ice Cream",12:46:05,"147 Arizona Plaza",,"Staten Island",0010SI,1
+ORD_00085,6.00,5,Dessert,"Chocolate Ice Cream",12:46:05,"147 Arizona Plaza",,"Staten Island",0010SI,1
+ORD_00085,16.00,3,Pizza,"Pizza Diavola Regular",12:46:05,"147 Arizona Plaza",,"Staten Island",0010SI,1
+ORD_00086,3.00,5,Beverage,"Diet Coke 33cl",13:27:14,"147 Arizona Plaza",,"Staten Island",0010SI,0
+ORD_00086,17.00,4,Pizza,"Pizza Hawaiian Large",13:27:14,"147 Arizona Plaza",,"Staten Island",0010SI,0
+ORD_00086,16.00,2,Pizza,"Pizza Napolitana Regular",13:27:14,"147 Arizona Plaza",,"Staten Island",0010SI,0
+ORD_00087,3.00,3,Beverage,"Diet Coke 33cl",21:16:30,"147 Arizona Plaza",,"Staten Island",0010SI,1
+ORD_00088,18.00,1,Pizza,"Pizza Parmigiana Large",18:38:28,"3168 Clemons Road",,Queens,0007Q,1
+ORD_00088,17.00,8,Pizza,"Pizza Hawaiian Large",18:38:28,"3168 Clemons Road",,Queens,0007Q,1
+ORD_00089,15.00,9,Pizza,"Pizza Hawaiian Regular",21:41:42,"3168 Clemons Road",,Queens,0007Q,0
+ORD_00089,5.00,7,Side,Breadsticks,21:41:42,"3168 Clemons Road",,Queens,0007Q,0
+ORD_00089,3.00,6,Beverage,"Fanta 33cl",21:41:42,"3168 Clemons Road",,Queens,0007Q,0
+ORD_00091,6.00,7,Beverage,"7 Up 1.5l",22:01:19,"3168 Clemons Road",,Queens,0007Q,1
+ORD_00091,17.00,3,Pizza,"Pizza Seafood Regular",22:01:19,"3168 Clemons Road",,Queens,0007Q,1
+ORD_00091,6.00,6,Beverage,"Coca Cola 1.5l",22:01:19,"3168 Clemons Road",,Queens,0007Q,1
+ORD_00092,6.00,4,Dessert,"Vanilla Ice Cream",19:44:05,"3168 Clemons Road",,Queens,0007Q,1
+ORD_00092,6.00,10,Dessert,"Vanilla Ice Cream",19:44:05,"3168 Clemons Road",,Queens,0007Q,1
+ORD_00093,3.00,3,Beverage,"Coca Cola 33cl",18:36:26,"3168 Clemons Road",,Queens,0007Q,0
+ORD_00093,7.00,4,Dessert,"Banoffee Pie",18:36:26,"3168 Clemons Road",,Queens,0007Q,0
+ORD_00094,6.00,5,Side,"Garlic Bread",13:50:24,"3168 Clemons Road",,Queens,0007Q,1
+ORD_00094,6.00,9,Dessert,"Vanilla Ice Cream",13:50:24,"3168 Clemons Road",,Queens,0007Q,1
+ORD_00094,6.00,7,Side,"Garlic Bread",13:50:24,"3168 Clemons Road",,Queens,0007Q,1
+ORD_00094,16.00,8,Pizza,"Pizza Diavola Regular",13:50:24,"3168 Clemons Road",,Queens,0007Q,1
+ORD_00094,5.00,5,Dessert,"Fruit salad",13:50:24,"3168 Clemons Road",,Queens,0007Q,1
+ORD_00094,16.00,1,Pizza,"Pizza Quattro Formaggi Regular",13:50:24,"3168 Clemons Road",,Queens,0007Q,1
+ORD_00094,17.00,5,Pizza,"Pizza Seafood Regular",13:50:24,"3168 Clemons Road",,Queens,0007Q,1
+ORD_00095,17.00,3,Pizza,"Pizza Hawaiian Large",19:04:31,"3168 Clemons Road",,Queens,0007Q,1
+ORD_00095,5.00,1,Side,Breadsticks,19:04:31,"3168 Clemons Road",,Queens,0007Q,1
+ORD_00096,18.00,3,Pizza,"Pizza Parmigiana Large",22:26:14,"3168 Clemons Road",,Queens,0007Q,0
+ORD_00096,6.00,10,Beverage,"Fanta 1.5l",22:26:14,"3168 Clemons Road",,Queens,0007Q,0
+ORD_00097,7.00,4,Dessert,"Banoffee Pie",18:55:48,"3168 Clemons Road",,Queens,0007Q,1
+ORD_00097,18.00,1,Pizza,"Pizza Napolitana Large",18:55:48,"3168 Clemons Road",,Queens,0007Q,1
+ORD_00097,6.00,2,Side,"Garlic Bread",18:55:48,"3168 Clemons Road",,Queens,0007Q,1
+ORD_00098,17.00,7,Pizza,"Pizza Hawaiian Large",20:44:07,"3168 Clemons Road",,Queens,0007Q,1
+ORD_00098,12.00,2,Pizza,"Pizza Margherita Regular",20:44:07,"3168 Clemons Road",,Queens,0007Q,1
+ORD_00098,6.00,1,Side,"Garlic Bread",20:44:07,"3168 Clemons Road",,Queens,0007Q,1
+ORD_00099,6.00,3,Beverage,"Coca Cola 1.5l",19:06:57,"3168 Clemons Road",,Queens,0007Q,0
+ORD_00099,6.00,4,Dessert,"Chocolate Ice Cream",19:06:57,"3168 Clemons Road",,Queens,0007Q,0
+ORD_00099,18.00,7,Pizza,"Pizza Napolitana Large",19:06:57,"3168 Clemons Road",,Queens,0007Q,0
+ORD_00100,12.00,4,Pizza,"Pizza Margherita Regular",19:18:43,"3168 Clemons Road",,Queens,0007Q,0
+ORD_00100,12.00,7,Pizza,"Pizza Margherita Regular",19:18:43,"3168 Clemons Road",,Queens,0007Q,0
+ORD_00101,17.00,4,Pizza,"Pizza Pepperoni Large",20:47:59,"3168 Clemons Road",,Queens,0007Q,1
+ORD_00101,14.00,10,Pizza,"Pizza Margherita Large",20:47:59,"3168 Clemons Road",,Queens,0007Q,1
+ORD_00102,16.00,4,Pizza,"Pizza Napolitana Regular",22:01:09,"3168 Clemons Road",,Queens,0007Q,1
+ORD_00103,6.00,4,Dessert,"Strawberry Ice Cream",13:11:03,"9338 Rutledge Drive",,Bronx,0004B,0
+ORD_00103,6.00,10,Beverage,"Diet Coke 1.5l",13:11:03,"9338 Rutledge Drive",,Bronx,0004B,0
+ORD_00103,18.00,3,Pizza,"Pizza Napolitana Large",13:11:03,"9338 Rutledge Drive",,Bronx,0004B,0
+ORD_00103,3.00,6,Beverage,"Fanta 33cl",13:11:03,"9338 Rutledge Drive",,Bronx,0004B,0
+ORD_00104,6.00,6,Dessert,"Chocolate Ice Cream",19:33:58,"9338 Rutledge Drive",,Bronx,0004B,1
+ORD_00105,5.00,8,Side,Breadsticks,13:59:22,"14213 Luster Hill",,Manhattan,0001M,1
+ORD_00106,3.00,4,Beverage,"Fanta 33cl",20:27:22,"7 Gale Pass",,Manhattan,0001M,0
+ORD_00106,4.00,5,Beverage,"Sparkling Water 1.5l",20:27:22,"7 Gale Pass",,Manhattan,0001M,0
+ORD_00107,6.00,2,Side,"Garlic Bread",22:12:52,"7 Gale Pass",,Manhattan,0001M,1
+ORD_00107,16.00,7,Pizza,"Pizza Diavola Regular",22:12:52,"7 Gale Pass",,Manhattan,0001M,1
+ORD_00107,15.00,3,Pizza,"Pizza Parmigiana Regular",22:12:52,"7 Gale Pass",,Manhattan,0001M,1
+ORD_00107,17.00,2,Pizza,"Pizza Hawaiian Large",22:12:52,"7 Gale Pass",,Manhattan,0001M,1
+ORD_00107,20.00,2,Pizza,"Pizza Seafood Large",22:12:52,"7 Gale Pass",,Manhattan,0001M,1
+ORD_00108,7.00,9,Side,"Chicken Wings",13:31:58,"7 Gale Pass",,Manhattan,0001M,1
+ORD_00108,6.00,4,Dessert,"Vanilla Ice Cream",13:31:58,"7 Gale Pass",,Manhattan,0001M,1
+ORD_00109,18.00,7,Pizza,"Pizza Napolitana Large",11:47:47,"7 Gale Pass",,Manhattan,0001M,0
+ORD_00109,3.00,6,Beverage,"Coca Cola 33cl",11:47:47,"7 Gale Pass",,Manhattan,0001M,0
+ORD_00109,3.00,3,Beverage,"7 Up 33cl",11:47:47,"7 Gale Pass",,Manhattan,0001M,0
+ORD_00111,5.00,1,Side,Breadsticks,18:49:59,"7 Gale Pass",,Manhattan,0001M,1
+ORD_00111,19.00,2,Pizza,"Pizza Quattro Formaggi Large",18:49:59,"7 Gale Pass",,Manhattan,0001M,1
+ORD_00112,19.00,9,Pizza,"Pizza Diavola Large",21:31:14,"7 Gale Pass",,Manhattan,0001M,1
+ORD_00112,18.00,9,Pizza,"Pizza Parmigiana Large",21:31:14,"7 Gale Pass",,Manhattan,0001M,1
+ORD_00113,17.00,3,Pizza,"Pizza Seafood Regular",11:44:24,"7 Gale Pass",,Manhattan,0001M,0
+ORD_00114,17.00,3,Pizza,"Pizza Pepperoni Large",19:17:02,"5170 Armistice Hill","Room 589","Staten Island",0010SI,1
+ORD_00115,6.00,2,Beverage,"Fanta 1.5l",18:38:36,"5170 Armistice Hill","Room 589","Staten Island",0010SI,1
+ORD_00115,16.00,4,Pizza,"Pizza Napolitana Regular",18:38:36,"5170 Armistice Hill","Room 589","Staten Island",0010SI,1
+ORD_00115,5.00,4,Side,Breadsticks,18:38:36,"5170 Armistice Hill","Room 589","Staten Island",0010SI,1
+ORD_00115,7.00,2,Side,"Caesar Salad",18:38:36,"5170 Armistice Hill","Room 589","Staten Island",0010SI,1
+ORD_00115,6.00,4,Beverage,"Fanta 1.5l",18:38:36,"5170 Armistice Hill","Room 589","Staten Island",0010SI,1
+ORD_00117,16.00,9,Pizza,"Pizza Diavola Regular",12:08:13,"5170 Armistice Hill","Room 589","Staten Island",0010SI,1
+ORD_00117,16.00,3,Pizza,"Pizza Napolitana Regular",12:08:13,"5170 Armistice Hill","Room 589","Staten Island",0010SI,1
+ORD_00118,19.00,1,Pizza,"Pizza Quattro Formaggi Large",21:57:08,"5170 Armistice Hill","Room 589","Staten Island",0010SI,1
+ORD_00119,3.00,6,Beverage,"Coca Cola 33cl",11:21:02,"695 Sunbrook Avenue",,"Staten Island",0010SI,0
+ORD_00119,6.00,3,Beverage,"7 Up 1.5l",11:21:02,"695 Sunbrook Avenue",,"Staten Island",0010SI,0
+ORD_00119,16.00,6,Pizza,"Pizza Napolitana Regular",11:21:02,"695 Sunbrook Avenue",,"Staten Island",0010SI,0
+ORD_00120,3.00,5,Beverage,"Coca Cola 33cl",11:03:50,"695 Sunbrook Avenue",,"Staten Island",0010SI,0
+ORD_00120,3.00,10,Beverage,"Fanta 33cl",11:03:50,"695 Sunbrook Avenue",,"Staten Island",0010SI,0
+ORD_00121,2.00,3,Beverage,"Sparkling Water 33cl",11:37:36,"695 Sunbrook Avenue",,"Staten Island",0010SI,1
+ORD_00121,16.00,2,Pizza,"Pizza Napolitana Regular",11:37:36,"695 Sunbrook Avenue",,"Staten Island",0010SI,1
+ORD_00121,5.00,7,Dessert,"Chocolate Brownie",11:37:36,"695 Sunbrook Avenue",,"Staten Island",0010SI,1
+ORD_00122,17.00,10,Pizza,"Pizza Pepperoni Large",21:09:22,"695 Sunbrook Avenue",,"Staten Island",0010SI,1
+ORD_00124,20.00,9,Pizza,"Pizza Seafood Large",20:02:02,"98148 Brown Pass",,Bronx,0004B,1
+ORD_00125,18.00,5,Pizza,"Pizza Parmigiana Large",13:49:34,"3951 Hintze Point",,Queens,0007Q,1
+ORD_00125,14.00,4,Pizza,"Pizza Margherita Large",13:49:34,"3951 Hintze Point",,Queens,0007Q,1
+ORD_00125,6.00,3,Dessert,"Chocolate Ice Cream",13:49:34,"3951 Hintze Point",,Queens,0007Q,1
+ORD_00126,6.00,8,Beverage,"Diet Coke 1.5l",20:30:51,"3951 Hintze Point",,Queens,0007Q,0
+ORD_00126,5.00,7,Dessert,"Chocolate Brownie",20:30:51,"3951 Hintze Point",,Queens,0007Q,0
+ORD_00126,16.00,10,Pizza,"Pizza Diavola Regular",20:30:51,"3951 Hintze Point",,Queens,0007Q,0
+ORD_00126,3.00,3,Beverage,"Fanta 33cl",20:30:51,"3951 Hintze Point",,Queens,0007Q,0
+ORD_00127,6.00,10,Beverage,"7 Up 1.5l",11:36:49,"3951 Hintze Point",,Queens,0007Q,1
+ORD_00127,7.00,8,Side,"Caesar Salad",11:36:49,"3951 Hintze Point",,Queens,0007Q,1
+ORD_00127,7.00,7,Side,"Chicken Wings",11:36:49,"3951 Hintze Point",,Queens,0007Q,1
+ORD_00127,12.00,10,Pizza,"Pizza Margherita Regular",11:36:49,"3951 Hintze Point",,Queens,0007Q,1
+ORD_00127,18.00,3,Pizza,"Pizza Parmigiana Large",11:36:49,"3951 Hintze Point",,Queens,0007Q,1
+ORD_00128,7.00,5,Dessert,"Banoffee Pie",13:37:32,"3951 Hintze Point",,Queens,0007Q,1
+ORD_00129,2.00,2,Beverage,"Sparkling Water 33cl",12:56:25,"00 La Follette Place",,"Staten Island",0010SI,0
+ORD_00129,14.00,3,Pizza,"Pizza Margherita Large",12:56:25,"00 La Follette Place",,"Staten Island",0010SI,0
+ORD_00129,3.00,1,Beverage,"Fanta 33cl",12:56:25,"00 La Follette Place",,"Staten Island",0010SI,0
+ORD_00130,15.00,6,Pizza,"Pizza Parmigiana Regular",10:52:29,"00 La Follette Place",,"Staten Island",0010SI,0
+ORD_00130,7.00,7,Side,"Caesar Salad",10:52:29,"00 La Follette Place",,"Staten Island",0010SI,0
+ORD_00131,20.00,10,Pizza,"Pizza Seafood Large",13:05:40,"00 La Follette Place",,"Staten Island",0010SI,1
+ORD_00131,7.00,9,Dessert,"Banoffee Pie",13:05:40,"00 La Follette Place",,"Staten Island",0010SI,1
+ORD_00131,3.00,7,Beverage,"Coca Cola 33cl",13:05:40,"00 La Follette Place",,"Staten Island",0010SI,1
+ORD_00131,16.00,1,Pizza,"Pizza Napolitana Regular",13:05:40,"00 La Follette Place",,"Staten Island",0010SI,1
+ORD_00131,3.00,4,Beverage,"Diet Coke 33cl",13:05:40,"00 La Follette Place",,"Staten Island",0010SI,1
+ORD_00132,7.00,9,Side,"Caesar Salad",18:38:35,"00 La Follette Place",,"Staten Island",0010SI,1
+ORD_00133,5.00,1,Dessert,"Chocolate Brownie",20:30:11,"8 Dahle Hill",,Manhattan,0001M,0
+ORD_00133,17.00,1,Pizza,"Pizza Pepperoni Large",20:30:11,"8 Dahle Hill",,Manhattan,0001M,0
+ORD_00133,6.00,2,Dessert,"Vanilla Ice Cream",20:30:11,"8 Dahle Hill",,Manhattan,0001M,0
+ORD_00134,16.00,10,Pizza,"Pizza Quattro Formaggi Regular",20:47:35,"8 Dahle Hill",,Manhattan,0001M,1
+ORD_00134,15.00,6,Pizza,"Pizza Hawaiian Regular",20:47:35,"8 Dahle Hill",,Manhattan,0001M,1
+ORD_00134,3.00,1,Beverage,"7 Up 33cl",20:47:35,"8 Dahle Hill",,Manhattan,0001M,1
+ORD_00135,15.00,5,Pizza,"Pizza Hawaiian Regular",20:40:40,"8 Dahle Hill",,Manhattan,0001M,1
+ORD_00135,5.00,2,Side,Breadsticks,20:40:40,"8 Dahle Hill",,Manhattan,0001M,1
+ORD_00135,15.00,5,Pizza,"Pizza Parmigiana Regular",20:40:40,"8 Dahle Hill",,Manhattan,0001M,1
+ORD_00136,18.00,9,Pizza,"Pizza Parmigiana Large",12:27:33,"8 Dahle Hill",,Manhattan,0001M,0
+ORD_00136,5.00,2,Side,Breadsticks,12:27:33,"8 Dahle Hill",,Manhattan,0001M,0
+ORD_00137,20.00,3,Pizza,"Pizza Seafood Large",19:27:44,"8 Dahle Hill",,Manhattan,0001M,1
+ORD_00137,18.00,2,Pizza,"Pizza Napolitana Large",19:27:44,"8 Dahle Hill",,Manhattan,0001M,1
+ORD_00137,5.00,7,Dessert,"Fruit salad",19:27:44,"8 Dahle Hill",,Manhattan,0001M,1
+ORD_00138,17.00,4,Pizza,"Pizza Hawaiian Large",12:03:33,"8 Dahle Hill",,Manhattan,0001M,1
+ORD_00138,2.00,10,Beverage,"Sparkling Water 33cl",12:03:33,"8 Dahle Hill",,Manhattan,0001M,1
+ORD_00138,6.00,4,Dessert,"Strawberry Ice Cream",12:03:33,"8 Dahle Hill",,Manhattan,0001M,1
+ORD_00139,6.00,5,Beverage,"Fanta 1.5l",20:03:14,"8 Dahle Hill",,Manhattan,0001M,0
+ORD_00139,6.00,1,Beverage,"7 Up 1.5l",20:03:14,"8 Dahle Hill",,Manhattan,0001M,0
+ORD_00139,6.00,7,Beverage,"7 Up 1.5l",20:03:14,"8 Dahle Hill",,Manhattan,0001M,0
+ORD_00140,6.00,4,Dessert,"Pistachio Ice Crearn",21:28:07,"8 Dahle Hill",,Manhattan,0001M,0
+ORD_00140,6.00,7,Beverage,"Diet Coke 1.5l",21:28:07,"8 Dahle Hill",,Manhattan,0001M,0
+ORD_00140,6.00,7,Beverage,"7 Up 1.5l",21:28:07,"8 Dahle Hill",,Manhattan,0001M,0
+ORD_00141,14.00,5,Pizza,"Pizza Margherita Large",20:47:04,"8 Dahle Hill",,Manhattan,0001M,1
+ORD_00142,6.00,6,Beverage,"Fanta 1.5l",22:29:13,"4982 7th Hill","Suite 70",Bronx,0004B,1
+ORD_00142,14.00,1,Pizza,"Pizza Margherita Large",22:29:13,"4982 7th Hill","Suite 70",Bronx,0004B,1
+ORD_00143,6.00,2,Beverage,"Fanta 1.5l",18:43:51,"4982 7th Hill","Suite 70",Bronx,0004B,0
+ORD_00144,16.00,4,Pizza,"Pizza Quattro Formaggi Regular",11:09:17,"96245 7th Parkway",,Manhattan,0001M,1
+ORD_00144,7.00,7,Side,"Chicken Wings",11:09:17,"96245 7th Parkway",,Manhattan,0001M,1
+ORD_00145,6.00,4,Beverage,"Fanta 1.5l",13:54:59,"96245 7th Parkway",,Manhattan,0001M,1
+ORD_00146,3.00,2,Beverage,"7 Up 33cl",18:57:22,"14213 Luster Hill",,Manhattan,0001M,0
+ORD_00146,6.00,5,Beverage,"Fanta 1.5l",18:57:22,"14213 Luster Hill",,Manhattan,0001M,0
+ORD_00146,5.00,2,Dessert,"Chocolate Brownie",18:57:22,"14213 Luster Hill",,Manhattan,0001M,0
+ORD_00147,5.00,8,Dessert,"Fruit salad",12:23:36,"14213 Luster Hill",,Manhattan,0001M,1
+ORD_00148,7.00,4,Side,"Caesar Salad",19:25:50,"0970 Valley Edge Circle","17th Floor",Queens,0007Q,1
+ORD_00148,2.00,9,Beverage,"Sparkling Water 33cl",19:25:50,"0970 Valley Edge Circle","17th Floor",Queens,0007Q,1
+ORD_00148,3.00,2,Beverage,"Coca Cola 33cl",19:25:50,"0970 Valley Edge Circle","17th Floor",Queens,0007Q,1
+ORD_00148,5.00,2,Dessert,"Fruit salad",19:25:50,"0970 Valley Edge Circle","17th Floor",Queens,0007Q,1
+ORD_00148,3.00,7,Beverage,"Fanta 33cl",19:25:50,"0970 Valley Edge Circle","17th Floor",Queens,0007Q,1
+ORD_00149,6.00,2,Beverage,"7 Up 1.5l",11:21:08,"0970 Valley Edge Circle","17th Floor",Queens,0007Q,0
+ORD_00150,7.00,7,Dessert,"Banoffee Pie",11:33:14,"6 Bluejay Crossing",,Manhattan,0001M,0
+ORD_00150,4.00,7,Beverage,"Sparkling Water 1.5l",11:33:14,"6 Bluejay Crossing",,Manhattan,0001M,0
+ORD_00151,16.00,5,Pizza,"Pizza Quattro Formaggi Regular",20:41:29,"6 Bluejay Crossing",,Manhattan,0001M,1
+ORD_00151,3.00,2,Beverage,"Fanta 33cl",20:41:29,"6 Bluejay Crossing",,Manhattan,0001M,1
+ORD_00151,15.00,8,Pizza,"Pizza Hawaiian Regular",20:41:29,"6 Bluejay Crossing",,Manhattan,0001M,1
+ORD_00151,17.00,2,Pizza,"Pizza Seafood Regular",20:41:29,"6 Bluejay Crossing",,Manhattan,0001M,1
+ORD_00153,18.00,9,Pizza,"Pizza Napolitana Large",21:23:45,"6 Bluejay Crossing",,Manhattan,0001M,0
+ORD_00153,14.00,1,Pizza,"Pizza Margherita Large",21:23:45,"6 Bluejay Crossing",,Manhattan,0001M,0
+ORD_00153,19.00,3,Pizza,"Pizza Quattro Formaggi Large",21:23:45,"6 Bluejay Crossing",,Manhattan,0001M,0
+ORD_00154,6.00,9,Beverage,"Coca Cola 1.5l",13:30:52,"6 Bluejay Crossing",,Manhattan,0001M,1
+ORD_00154,18.00,6,Pizza,"Pizza Napolitana Large",13:30:52,"6 Bluejay Crossing",,Manhattan,0001M,1
+ORD_00154,6.00,2,Dessert,"Strawberry Ice Cream",13:30:52,"6 Bluejay Crossing",,Manhattan,0001M,1
+ORD_00154,17.00,4,Pizza,"Pizza Hawaiian Large",13:30:52,"6 Bluejay Crossing",,Manhattan,0001M,1
+ORD_00155,7.00,9,Dessert,"Banoffee Pie",10:54:16,"6 Bluejay Crossing",,Manhattan,0001M,1
+ORD_00155,6.00,6,Beverage,"Coca Cola 1.5l",10:54:16,"6 Bluejay Crossing",,Manhattan,0001M,1
+ORD_00155,19.00,1,Pizza,"Pizza Quattro Formaggi Large",10:54:16,"6 Bluejay Crossing",,Manhattan,0001M,1
+ORD_00156,16.00,4,Pizza,"Pizza Diavola Regular",11:24:49,"6 Bluejay Crossing",,Manhattan,0001M,0
+ORD_00156,17.00,4,Pizza,"Pizza Seafood Regular",11:24:49,"6 Bluejay Crossing",,Manhattan,0001M,0
+ORD_00156,12.00,6,Pizza,"Pizza Margherita Regular",11:24:49,"6 Bluejay Crossing",,Manhattan,0001M,0
+ORD_00156,14.00,6,Pizza,"Pizza Margherita Large",11:24:49,"6 Bluejay Crossing",,Manhattan,0001M,0
+ORD_00157,19.00,9,Pizza,"Pizza Quattro Formaggi Large",11:09:49,"6 Bluejay Crossing",,Manhattan,0001M,1
+ORD_00158,20.00,5,Pizza,"Pizza Seafood Large",21:57:32,"93 Sugar Terrace","Suite 2",Queens,0007Q,1
+ORD_00158,7.00,7,Side,"Chicken Wings",21:57:32,"93 Sugar Terrace","Suite 2",Queens,0007Q,1
+ORD_00158,6.00,6,Side,"Garlic Bread",21:57:32,"93 Sugar Terrace","Suite 2",Queens,0007Q,1
+ORD_00159,3.00,7,Beverage,"Fanta 33cl",21:25:42,"93 Sugar Terrace","Suite 2",Queens,0007Q,0
+ORD_00159,6.00,10,Beverage,"7 Up 1.5l",21:25:42,"93 Sugar Terrace","Suite 2",Queens,0007Q,0
+ORD_00159,19.00,4,Pizza,"Pizza Diavola Large",21:25:42,"93 Sugar Terrace","Suite 2",Queens,0007Q,0
+ORD_00159,17.00,10,Pizza,"Pizza Hawaiian Large",21:25:42,"93 Sugar Terrace","Suite 2",Queens,0007Q,0
+ORD_00161,6.00,10,Beverage,"Coca Cola 1.5l",21:42:22,"93 Sugar Terrace","Suite 2",Queens,0007Q,1
+ORD_00162,15.00,1,Pizza,"Pizza Pepperoni Regular",11:40:21,"59 Stoughton Plaza",,Queens,0007Q,1
+ORD_00162,17.00,5,Pizza,"Pizza Seafood Regular",11:40:21,"59 Stoughton Plaza",,Queens,0007Q,1
+ORD_00162,16.00,10,Pizza,"Pizza Napolitana Regular",11:40:21,"59 Stoughton Plaza",,Queens,0007Q,1
+ORD_00162,19.00,5,Pizza,"Pizza Diavola Large",11:40:21,"59 Stoughton Plaza",,Queens,0007Q,1
+ORD_00163,6.00,6,Beverage,"Fanta 1.5l",12:32:30,"59 Stoughton Plaza",,Queens,0007Q,0
+ORD_00163,5.00,3,Side,Breadsticks,12:32:30,"59 Stoughton Plaza",,Queens,0007Q,0
+ORD_00164,17.00,2,Pizza,"Pizza Hawaiian Large",11:20:08,"59 Stoughton Plaza",,Queens,0007Q,1
+ORD_00165,16.00,8,Pizza,"Pizza Napolitana Regular",22:24:54,"03250 Miller Park",,Queens,0007Q,1
+ORD_00165,5.00,6,Side,Breadsticks,22:24:54,"03250 Miller Park",,Queens,0007Q,1
+ORD_00166,2.00,1,Beverage,"Sparkling Water 33cl",11:30:58,"03250 Miller Park",,Queens,0007Q,0
+ORD_00166,3.00,5,Beverage,"Fanta 33cl",11:30:58,"03250 Miller Park",,Queens,0007Q,0
+ORD_00169,12.00,10,Pizza,"Pizza Margherita Regular",10:45:57,"03250 Miller Park",,Queens,0007Q,0
+ORD_00169,14.00,3,Pizza,"Pizza Margherita Large",10:45:57,"03250 Miller Park",,Queens,0007Q,0
+ORD_00169,3.00,5,Beverage,"7 Up 33cl",10:45:57,"03250 Miller Park",,Queens,0007Q,0
+ORD_00170,3.00,6,Beverage,"Diet Coke 33cl",13:25:51,"03250 Miller Park",,Queens,0007Q,0
+ORD_00170,4.00,4,Beverage,"Sparkling Water 1.5l",13:25:51,"03250 Miller Park",,Queens,0007Q,0
+ORD_00170,6.00,3,Dessert,"Chocolate Ice Cream",13:25:51,"03250 Miller Park",,Queens,0007Q,0
+ORD_00170,18.00,8,Pizza,"Pizza Napolitana Large",13:25:51,"03250 Miller Park",,Queens,0007Q,0
+ORD_00170,16.00,3,Pizza,"Pizza Napolitana Regular",13:25:51,"03250 Miller Park",,Queens,0007Q,0
+ORD_00170,6.00,4,Side,"Garlic Bread",13:25:51,"03250 Miller Park",,Queens,0007Q,0
+ORD_00171,6.00,2,Dessert,"Strawberry Ice Cream",11:47:12,"03250 Miller Park",,Queens,0007Q,1
+ORD_00171,16.00,1,Pizza,"Pizza Napolitana Regular",11:47:12,"03250 Miller Park",,Queens,0007Q,1
+ORD_00171,7.00,8,Side,"Chicken Wings",11:47:12,"03250 Miller Park",,Queens,0007Q,1
+ORD_00171,7.00,2,Dessert,"Banoffee Pie",11:47:12,"03250 Miller Park",,Queens,0007Q,1
+ORD_00172,16.00,3,Pizza,"Pizza Quattro Formaggi Regular",13:34:03,"03250 Miller Park",,Queens,0007Q,1
+ORD_00172,18.00,2,Pizza,"Pizza Napolitana Large",13:34:03,"03250 Miller Park",,Queens,0007Q,1
+ORD_00173,14.00,10,Pizza,"Pizza Margherita Large",22:15:12,"03250 Miller Park",,Queens,0007Q,0
+ORD_00174,6.00,1,Side,"Garlic Bread",20:20:02,"3676 Southridge Avenue",,Queens,0007Q,1
+ORD_00175,16.00,5,Pizza,"Pizza Diavola Regular",11:40:30,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+ORD_00175,17.00,1,Pizza,"Pizza Hawaiian Large",11:40:30,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+ORD_00176,16.00,6,Pizza,"Pizza Diavola Regular",11:33:14,"9270 Sunnyside Crossing",,Brooklyn,0005B,0
+ORD_00176,6.00,4,Dessert,"Chocolate Ice Cream",11:33:14,"9270 Sunnyside Crossing",,Brooklyn,0005B,0
+ORD_00176,5.00,3,Dessert,"Chocolate Brownie",11:33:14,"9270 Sunnyside Crossing",,Brooklyn,0005B,0
+ORD_00176,16.00,10,Pizza,"Pizza Quattro Formaggi Regular",11:33:14,"9270 Sunnyside Crossing",,Brooklyn,0005B,0
+ORD_00177,5.00,9,Side,Breadsticks,20:04:40,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+ORD_00177,15.00,9,Pizza,"Pizza Parmigiana Regular",20:04:40,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+ORD_00177,14.00,4,Pizza,"Pizza Margherita Large",20:04:40,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+ORD_00177,7.00,5,Side,"Caesar Salad",20:04:40,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+ORD_00177,20.00,5,Pizza,"Pizza Seafood Large",20:04:40,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+ORD_00178,6.00,8,Beverage,"7 Up 1.5l",10:34:28,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+ORD_00178,18.00,7,Pizza,"Pizza Parmigiana Large",10:34:28,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+ORD_00179,19.00,9,Pizza,"Pizza Diavola Large",22:39:20,"9270 Sunnyside Crossing",,Brooklyn,0005B,0
+ORD_00179,17.00,4,Pizza,"Pizza Seafood Regular",22:39:20,"9270 Sunnyside Crossing",,Brooklyn,0005B,0
+ORD_00180,6.00,9,Beverage,"Diet Coke 1.5l",11:27:25,"9270 Sunnyside Crossing",,Brooklyn,0005B,0
+ORD_00180,3.00,1,Beverage,"7 Up 33cl",11:27:25,"9270 Sunnyside Crossing",,Brooklyn,0005B,0
+ORD_00180,6.00,1,Beverage,"Coca Cola 1.5l",11:27:25,"9270 Sunnyside Crossing",,Brooklyn,0005B,0
+ORD_00181,18.00,4,Pizza,"Pizza Napolitana Large",12:51:23,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+ORD_00181,15.00,8,Pizza,"Pizza Hawaiian Regular",12:51:23,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+ORD_00181,3.00,7,Beverage,"Diet Coke 33cl",12:51:23,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+ORD_00181,3.00,2,Beverage,"Coca Cola 33cl",12:51:23,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+ORD_00182,3.00,9,Beverage,"7 Up 33cl",19:43:53,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+ORD_00182,6.00,7,Beverage,"Diet Coke 1.5l",19:43:53,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+ORD_00182,6.00,2,Dessert,"Vanilla Ice Cream",19:43:53,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+ORD_00183,4.00,10,Beverage,"Sparkling Water 1.5l",13:33:42,"9270 Sunnyside Crossing",,Brooklyn,0005B,0
+ORD_00183,6.00,7,Beverage,"Coca Cola 1.5l",13:33:42,"9270 Sunnyside Crossing",,Brooklyn,0005B,0
+ORD_00183,3.00,8,Beverage,"Diet Coke 33cl",13:33:42,"9270 Sunnyside Crossing",,Brooklyn,0005B,0
+ORD_00183,5.00,3,Side,Breadsticks,13:33:42,"9270 Sunnyside Crossing",,Brooklyn,0005B,0
+ORD_00184,20.00,6,Pizza,"Pizza Seafood Large",11:30:13,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+ORD_00184,19.00,5,Pizza,"Pizza Diavola Large",11:30:13,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+ORD_00185,15.00,6,Pizza,"Pizza Hawaiian Regular",12:09:09,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+ORD_00185,5.00,3,Dessert,"Fruit salad",12:09:09,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+ORD_00185,14.00,9,Pizza,"Pizza Margherita Large",12:09:09,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+ORD_00185,6.00,1,Dessert,"Pistachio Ice Crearn",12:09:09,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+ORD_00186,7.00,5,Side,"Chicken Wings",21:19:05,"9270 Sunnyside Crossing",,Brooklyn,0005B,0
+ORD_00186,6.00,5,Beverage,"7 Up 1.5l",21:19:05,"9270 Sunnyside Crossing",,Brooklyn,0005B,0
+ORD_00187,7.00,1,Dessert,"Banoffee Pie",21:57:39,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+ORD_00187,6.00,4,Side,"Garlic Bread",21:57:39,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+ORD_00187,4.00,6,Beverage,"Sparkling Water 1.5l",21:57:39,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+ORD_00187,18.00,1,Pizza,"Pizza Napolitana Large",21:57:39,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+ORD_00188,3.00,4,Beverage,"Coca Cola 33cl",20:46:07,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+ORD_00188,5.00,2,Side,Breadsticks,20:46:07,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+ORD_00189,2.00,7,Beverage,"Sparkling Water 33cl",19:11:34,"9270 Sunnyside Crossing",,Brooklyn,0005B,0
+ORD_00189,15.00,9,Pizza,"Pizza Pepperoni Regular",19:11:34,"9270 Sunnyside Crossing",,Brooklyn,0005B,0
+ORD_00189,7.00,3,Side,"Caesar Salad",19:11:34,"9270 Sunnyside Crossing",,Brooklyn,0005B,0
+ORD_00190,14.00,7,Pizza,"Pizza Margherita Large",20:18:12,"9270 Sunnyside Crossing",,Brooklyn,0005B,0
+ORD_00190,6.00,7,Dessert,"Strawberry Ice Cream",20:18:12,"9270 Sunnyside Crossing",,Brooklyn,0005B,0
+ORD_00191,6.00,8,Side,"Garlic Bread",20:39:27,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+ORD_00193,3.00,8,Beverage,"Fanta 33cl",19:18:32,"1 Almo Road",,Brooklyn,0005B,0
+ORD_00193,3.00,6,Beverage,"Coca Cola 33cl",19:18:32,"1 Almo Road",,Brooklyn,0005B,0
+ORD_00193,3.00,4,Beverage,"7 Up 33cl",19:18:32,"1 Almo Road",,Brooklyn,0005B,0
+ORD_00193,17.00,7,Pizza,"Pizza Pepperoni Large",19:18:32,"1 Almo Road",,Brooklyn,0005B,0
+ORD_00196,16.00,8,Pizza,"Pizza Diavola Regular",11:31:13,"1 Almo Road",,Brooklyn,0005B,0
+ORD_00197,2.00,9,Beverage,"Sparkling Water 33cl",22:37:13,"431 Norway Maple Pass",,"Staten Island",0010SI,1
+ORD_00197,6.00,3,Beverage,"Coca Cola 1.5l",22:37:13,"431 Norway Maple Pass",,"Staten Island",0010SI,1
+ORD_00198,18.00,10,Pizza,"Pizza Parmigiana Large",11:17:01,"431 Norway Maple Pass",,"Staten Island",0010SI,1
+ORD_00198,5.00,10,Side,Breadsticks,11:17:01,"431 Norway Maple Pass",,"Staten Island",0010SI,1
+ORD_00199,7.00,4,Dessert,"Banoffee Pie",11:11:25,"431 Norway Maple Pass",,"Staten Island",0010SI,0
+ORD_00199,6.00,6,Dessert,"Strawberry Ice Cream",11:11:25,"431 Norway Maple Pass",,"Staten Island",0010SI,0
+ORD_00199,6.00,7,Beverage,"Coca Cola 1.5l",11:11:25,"431 Norway Maple Pass",,"Staten Island",0010SI,0
+ORD_00199,3.00,5,Beverage,"Fanta 33cl",11:11:25,"431 Norway Maple Pass",,"Staten Island",0010SI,0
+ORD_00200,17.00,5,Pizza,"Pizza Seafood Regular",13:21:02,"431 Norway Maple Pass",,"Staten Island",0010SI,0
+ORD_00201,7.00,9,Side,"Chicken Wings",10:51:30,"98148 Brown Pass",,Bronx,0004B,1
+ORD_00201,19.00,3,Pizza,"Pizza Diavola Large",10:51:30,"98148 Brown Pass",,Bronx,0004B,1
+ORD_00202,3.00,2,Beverage,"Fanta 33cl",20:11:09,"98148 Brown Pass",,Bronx,0004B,1
+ORD_00203,6.00,2,Beverage,"Diet Coke 1.5l",20:49:41,"92953 Elka Way",,"Staten Island",0010SI,0
+ORD_00204,6.00,5,Beverage,"Coca Cola 1.5l",13:28:19,"1837 Dexter Junction",,Bronx,0004B,1
+ORD_00204,2.00,6,Beverage,"Sparkling Water 33cl",13:28:19,"1837 Dexter Junction",,Bronx,0004B,1
+ORD_00205,6.00,4,Beverage,"Diet Coke 1.5l",19:59:55,"1837 Dexter Junction",,Bronx,0004B,1
+ORD_00207,3.00,6,Beverage,"Coca Cola 33cl",18:50:06,"1672 South Center",,Manhattan,0001M,1
+ORD_00208,17.00,7,Pizza,"Pizza Hawaiian Large",13:41:34,"28 Sage Drive",,Bronx,0004B,1
+ORD_00208,12.00,7,Pizza,"Pizza Margherita Regular",13:41:34,"28 Sage Drive",,Bronx,0004B,1
+ORD_00209,5.00,4,Dessert,"Chocolate Brownie",21:04:22,"28 Sage Drive",,Bronx,0004B,0
+ORD_00209,6.00,7,Beverage,"Diet Coke 1.5l",21:04:22,"28 Sage Drive",,Bronx,0004B,0
+ORD_00210,15.00,9,Pizza,"Pizza Hawaiian Regular",22:52:00,"28 Sage Drive",,Bronx,0004B,0
+ORD_00210,6.00,3,Dessert,"Vanilla Ice Cream",22:52:00,"28 Sage Drive",,Bronx,0004B,0
+ORD_00210,19.00,3,Pizza,"Pizza Quattro Formaggi Large",22:52:00,"28 Sage Drive",,Bronx,0004B,0
+ORD_00211,17.00,8,Pizza,"Pizza Seafood Regular",19:21:23,"28 Sage Drive",,Bronx,0004B,1
+ORD_00212,17.00,3,Pizza,"Pizza Seafood Regular",11:31:04,"00 La Follette Place",,"Staten Island",0010SI,1
+ORD_00212,19.00,7,Pizza,"Pizza Diavola Large",11:31:04,"00 La Follette Place",,"Staten Island",0010SI,1
+ORD_00212,4.00,4,Beverage,"Sparkling Water 1.5l",11:31:04,"00 La Follette Place",,"Staten Island",0010SI,1
+ORD_00214,5.00,6,Dessert,"Fruit salad",13:13:54,"00 La Follette Place",,"Staten Island",0010SI,1
+ORD_00214,15.00,9,Pizza,"Pizza Pepperoni Regular",13:13:54,"00 La Follette Place",,"Staten Island",0010SI,1
+ORD_00214,12.00,3,Pizza,"Pizza Margherita Regular",13:13:54,"00 La Follette Place",,"Staten Island",0010SI,1
+ORD_00215,6.00,3,Beverage,"7 Up 1.5l",11:10:43,"00 La Follette Place",,"Staten Island",0010SI,1
+ORD_00215,17.00,1,Pizza,"Pizza Seafood Regular",11:10:43,"00 La Follette Place",,"Staten Island",0010SI,1
+ORD_00216,6.00,3,Side,"Garlic Bread",21:07:02,"00 La Follette Place",,"Staten Island",0010SI,0
+ORD_00217,3.00,4,Beverage,"Diet Coke 33cl",21:58:58,"973 Anthes Point",,Queens,0007Q,1
+ORD_00217,6.00,10,Dessert,"Vanilla Ice Cream",21:58:58,"973 Anthes Point",,Queens,0007Q,1
+ORD_00217,5.00,3,Dessert,"Fruit salad",21:58:58,"973 Anthes Point",,Queens,0007Q,1
+ORD_00217,5.00,10,Dessert,"Chocolate Brownie",21:58:58,"973 Anthes Point",,Queens,0007Q,1
+ORD_00217,6.00,7,Dessert,"Pistachio Ice Crearn",21:58:58,"973 Anthes Point",,Queens,0007Q,1
+ORD_00218,6.00,9,Dessert,"Pistachio Ice Crearn",11:30:34,"973 Anthes Point",,Queens,0007Q,1
+ORD_00218,3.00,9,Beverage,"Diet Coke 33cl",11:30:34,"973 Anthes Point",,Queens,0007Q,1
+ORD_00219,5.00,4,Dessert,"Fruit salad",11:36:34,"973 Anthes Point",,Queens,0007Q,0
+ORD_00219,6.00,7,Dessert,"Strawberry Ice Cream",11:36:34,"973 Anthes Point",,Queens,0007Q,0
+ORD_00220,17.00,2,Pizza,"Pizza Seafood Regular",20:51:47,"973 Anthes Point",,Queens,0007Q,0
+ORD_00220,3.00,8,Beverage,"Diet Coke 33cl",20:51:47,"973 Anthes Point",,Queens,0007Q,0
+ORD_00220,16.00,2,Pizza,"Pizza Diavola Regular",20:51:47,"973 Anthes Point",,Queens,0007Q,0
+ORD_00220,6.00,5,Dessert,"Chocolate Ice Cream",20:51:47,"973 Anthes Point",,Queens,0007Q,0
+ORD_00221,19.00,3,Pizza,"Pizza Diavola Large",21:17:45,"973 Anthes Point",,Queens,0007Q,1
+ORD_00221,17.00,7,Pizza,"Pizza Seafood Regular",21:17:45,"973 Anthes Point",,Queens,0007Q,1
+ORD_00221,16.00,4,Pizza,"Pizza Diavola Regular",21:17:45,"973 Anthes Point",,Queens,0007Q,1
+ORD_00221,16.00,1,Pizza,"Pizza Napolitana Regular",21:17:45,"973 Anthes Point",,Queens,0007Q,1
+ORD_00221,4.00,4,Beverage,"Sparkling Water 1.5l",21:17:45,"973 Anthes Point",,Queens,0007Q,1
+ORD_00221,16.00,5,Pizza,"Pizza Napolitana Regular",21:17:45,"973 Anthes Point",,Queens,0007Q,1
+ORD_00221,18.00,6,Pizza,"Pizza Napolitana Large",21:17:45,"973 Anthes Point",,Queens,0007Q,1
+ORD_00222,6.00,1,Dessert,"Chocolate Ice Cream",11:30:25,"973 Anthes Point",,Queens,0007Q,1
+ORD_00223,6.00,2,Dessert,"Vanilla Ice Cream",19:11:59,"8345 Portage Street",,"Staten Island",0010SI,0
+ORD_00223,19.00,1,Pizza,"Pizza Quattro Formaggi Large",19:11:59,"8345 Portage Street",,"Staten Island",0010SI,0
+ORD_00224,3.00,10,Beverage,"Coca Cola 33cl",20:25:38,"8345 Portage Street",,"Staten Island",0010SI,1
+ORD_00224,6.00,3,Beverage,"Diet Coke 1.5l",20:25:38,"8345 Portage Street",,"Staten Island",0010SI,1
+ORD_00224,6.00,7,Dessert,"Chocolate Ice Cream",20:25:38,"8345 Portage Street",,"Staten Island",0010SI,1
+ORD_00225,15.00,8,Pizza,"Pizza Parmigiana Regular",20:43:59,"8345 Portage Street",,"Staten Island",0010SI,1
+ORD_00225,3.00,1,Beverage,"7 Up 33cl",20:43:59,"8345 Portage Street",,"Staten Island",0010SI,1
+ORD_00227,5.00,8,Dessert,"Chocolate Brownie",13:53:30,"8345 Portage Street",,"Staten Island",0010SI,1
+ORD_00227,6.00,7,Beverage,"7 Up 1.5l",13:53:30,"8345 Portage Street",,"Staten Island",0010SI,1
+ORD_00228,14.00,9,Pizza,"Pizza Margherita Large",20:30:14,"8345 Portage Street",,"Staten Island",0010SI,1
+ORD_00228,15.00,3,Pizza,"Pizza Hawaiian Regular",20:30:14,"8345 Portage Street",,"Staten Island",0010SI,1
+ORD_00229,7.00,4,Dessert,"Banoffee Pie",21:23:03,"8345 Portage Street",,"Staten Island",0010SI,0
+ORD_00229,7.00,7,Dessert,"Banoffee Pie",21:23:03,"8345 Portage Street",,"Staten Island",0010SI,0
+ORD_00230,6.00,5,Dessert,"Strawberry Ice Cream",20:14:45,"8345 Portage Street",,"Staten Island",0010SI,0
+ORD_00230,6.00,7,Dessert,"Pistachio Ice Crearn",20:14:45,"8345 Portage Street",,"Staten Island",0010SI,0
+ORD_00232,7.00,1,Side,"Chicken Wings",18:42:47,"8345 Portage Street",,"Staten Island",0010SI,1
+ORD_00232,17.00,5,Pizza,"Pizza Seafood Regular",18:42:47,"8345 Portage Street",,"Staten Island",0010SI,1
+ORD_00232,6.00,3,Beverage,"Fanta 1.5l",18:42:47,"8345 Portage Street",,"Staten Island",0010SI,1
+ORD_00233,5.00,4,Dessert,"Chocolate Brownie",21:48:45,"8345 Portage Street",,"Staten Island",0010SI,0
+ORD_00235,12.00,7,Pizza,"Pizza Margherita Regular",22:17:32,"67 West Way",,Bronx,0004B,1
+ORD_00235,15.00,7,Pizza,"Pizza Pepperoni Regular",22:17:32,"67 West Way",,Bronx,0004B,1
+ORD_00235,17.00,4,Pizza,"Pizza Pepperoni Large",22:17:32,"67 West Way",,Bronx,0004B,1
+ORD_00236,6.00,5,Beverage,"Fanta 1.5l",18:47:02,"67 West Way",,Bronx,0004B,0
+ORD_00237,6.00,8,Dessert,"Vanilla Ice Cream",19:44:23,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00237,3.00,7,Beverage,"Fanta 33cl",19:44:23,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00238,6.00,2,Beverage,"Diet Coke 1.5l",19:10:40,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00238,7.00,5,Side,"Caesar Salad",19:10:40,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00238,16.00,3,Pizza,"Pizza Quattro Formaggi Regular",19:10:40,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00239,2.00,1,Beverage,"Sparkling Water 33cl",21:04:06,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+ORD_00239,6.00,4,Dessert,"Vanilla Ice Cream",21:04:06,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+ORD_00239,6.00,4,Dessert,"Strawberry Ice Cream",21:04:06,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+ORD_00240,16.00,4,Pizza,"Pizza Diavola Regular",12:43:12,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+ORD_00240,15.00,2,Pizza,"Pizza Hawaiian Regular",12:43:12,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+ORD_00241,18.00,9,Pizza,"Pizza Napolitana Large",12:16:21,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00241,16.00,8,Pizza,"Pizza Diavola Regular",12:16:21,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00241,17.00,8,Pizza,"Pizza Hawaiian Large",12:16:21,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00241,15.00,3,Pizza,"Pizza Pepperoni Regular",12:16:21,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00242,7.00,2,Dessert,"Banoffee Pie",13:41:12,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00242,12.00,5,Pizza,"Pizza Margherita Regular",13:41:12,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00242,3.00,9,Beverage,"Diet Coke 33cl",13:41:12,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00243,3.00,1,Beverage,"Fanta 33cl",18:33:40,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+ORD_00243,3.00,1,Beverage,"7 Up 33cl",18:33:40,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+ORD_00243,5.00,4,Dessert,"Chocolate Brownie",18:33:40,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+ORD_00244,20.00,2,Pizza,"Pizza Seafood Large",18:53:34,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00244,3.00,7,Beverage,"Coca Cola 33cl",18:53:34,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00244,6.00,1,Beverage,"7 Up 1.5l",18:53:34,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00245,3.00,3,Beverage,"Diet Coke 33cl",21:41:13,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00245,7.00,4,Dessert,"Banoffee Pie",21:41:13,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00246,6.00,2,Dessert,"Chocolate Ice Cream",12:07:18,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+ORD_00246,3.00,4,Beverage,"Diet Coke 33cl",12:07:18,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+ORD_00247,15.00,10,Pizza,"Pizza Hawaiian Regular",12:58:27,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00247,16.00,9,Pizza,"Pizza Diavola Regular",12:58:27,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00247,3.00,5,Beverage,"Fanta 33cl",12:58:27,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00247,3.00,1,Beverage,"7 Up 33cl",12:58:27,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00248,6.00,8,Dessert,"Vanilla Ice Cream",22:11:06,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00248,14.00,4,Pizza,"Pizza Margherita Large",22:11:06,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00248,6.00,5,Dessert,"Vanilla Ice Cream",22:11:06,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00248,19.00,3,Pizza,"Pizza Quattro Formaggi Large",22:11:06,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00249,19.00,2,Pizza,"Pizza Diavola Large",20:15:22,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+ORD_00249,6.00,2,Beverage,"Coca Cola 1.5l",20:15:22,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+ORD_00249,6.00,4,Dessert,"Chocolate Ice Cream",20:15:22,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+ORD_00250,6.00,7,Beverage,"7 Up 1.5l",12:44:05,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+ORD_00250,6.00,2,Dessert,"Chocolate Ice Cream",12:44:05,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+ORD_00250,5.00,4,Side,Breadsticks,12:44:05,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+ORD_00250,6.00,3,Dessert,"Vanilla Ice Cream",12:44:05,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+ORD_00251,5.00,7,Side,Breadsticks,21:20:32,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00251,6.00,4,Dessert,"Pistachio Ice Crearn",21:20:32,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00251,7.00,7,Side,"Caesar Salad",21:20:32,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00251,3.00,5,Beverage,"Diet Coke 33cl",21:20:32,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00252,6.00,5,Dessert,"Strawberry Ice Cream",13:00:10,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00252,15.00,1,Pizza,"Pizza Hawaiian Regular",13:00:10,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00252,5.00,1,Dessert,"Fruit salad",13:00:10,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00252,16.00,3,Pizza,"Pizza Quattro Formaggi Regular",13:00:10,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00253,5.00,6,Dessert,"Fruit salad",21:39:07,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+ORD_00253,5.00,2,Dessert,"Chocolate Brownie",21:39:07,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+ORD_00253,6.00,2,Dessert,"Strawberry Ice Cream",21:39:07,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+ORD_00254,3.00,8,Beverage,"Coca Cola 33cl",18:57:49,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00254,2.00,3,Beverage,"Sparkling Water 33cl",18:57:49,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00255,6.00,6,Dessert,"Pistachio Ice Crearn",11:34:30,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00255,6.00,5,Beverage,"7 Up 1.5l",11:34:30,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00255,6.00,6,Beverage,"Fanta 1.5l",11:34:30,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00255,3.00,2,Beverage,"7 Up 33cl",11:34:30,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00255,2.00,7,Beverage,"Sparkling Water 33cl",11:34:30,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00256,16.00,2,Pizza,"Pizza Napolitana Regular",20:00:49,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+ORD_00256,16.00,6,Pizza,"Pizza Quattro Formaggi Regular",20:00:49,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+ORD_00257,4.00,1,Beverage,"Sparkling Water 1.5l",20:18:40,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00257,6.00,10,Beverage,"Fanta 1.5l",20:18:40,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00258,6.00,3,Dessert,"Vanilla Ice Cream",19:59:20,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+ORD_00259,7.00,2,Side,"Caesar Salad",13:14:22,"72779 Sloan Way","Apt 466",Manhattan,0001M,0
+ORD_00260,7.00,1,Side,"Caesar Salad",12:25:31,"909 Moulton Drive","Apt 897",Bronx,0004B,0
+ORD_00260,3.00,6,Beverage,"7 Up 33cl",12:25:31,"909 Moulton Drive","Apt 897",Bronx,0004B,0
+ORD_00260,3.00,3,Beverage,"7 Up 33cl",12:25:31,"909 Moulton Drive","Apt 897",Bronx,0004B,0
+ORD_00261,6.00,8,Beverage,"Fanta 1.5l",18:37:09,"909 Moulton Drive","Apt 897",Bronx,0004B,1
+ORD_00261,6.00,2,Beverage,"7 Up 1.5l",18:37:09,"909 Moulton Drive","Apt 897",Bronx,0004B,1
+ORD_00261,15.00,2,Pizza,"Pizza Parmigiana Regular",18:37:09,"909 Moulton Drive","Apt 897",Bronx,0004B,1
+ORD_00262,3.00,6,Beverage,"Coca Cola 33cl",18:36:03,"909 Moulton Drive","Apt 897",Bronx,0004B,1
+ORD_00262,5.00,5,Dessert,"Fruit salad",18:36:03,"909 Moulton Drive","Apt 897",Bronx,0004B,1
+ORD_00264,6.00,6,Beverage,"7 Up 1.5l",22:03:26,"909 Moulton Drive","Apt 897",Bronx,0004B,1
+ORD_00266,2.00,9,Beverage,"Sparkling Water 33cl",12:02:56,"42 7th Parkway",,Queens,0007Q,0
+ORD_00266,4.00,9,Beverage,"Sparkling Water 1.5l",12:02:56,"42 7th Parkway",,Queens,0007Q,0
+ORD_00266,12.00,6,Pizza,"Pizza Margherita Regular",12:02:56,"42 7th Parkway",,Queens,0007Q,0
+ORD_00267,6.00,10,Side,"Garlic Bread",22:24:14,"42 7th Parkway",,Queens,0007Q,1
+ORD_00267,19.00,1,Pizza,"Pizza Diavola Large",22:24:14,"42 7th Parkway",,Queens,0007Q,1
+ORD_00268,15.00,4,Pizza,"Pizza Hawaiian Regular",19:46:37,"42 7th Parkway",,Queens,0007Q,1
+ORD_00268,5.00,6,Side,Breadsticks,19:46:37,"42 7th Parkway",,Queens,0007Q,1
+ORD_00269,6.00,2,Dessert,"Chocolate Ice Cream",11:36:04,"42 7th Parkway",,Queens,0007Q,0
+ORD_00269,3.00,3,Beverage,"Fanta 33cl",11:36:04,"42 7th Parkway",,Queens,0007Q,0
+ORD_00269,6.00,7,Beverage,"Coca Cola 1.5l",11:36:04,"42 7th Parkway",,Queens,0007Q,0
+ORD_00269,15.00,1,Pizza,"Pizza Pepperoni Regular",11:36:04,"42 7th Parkway",,Queens,0007Q,0
+ORD_00269,3.00,5,Beverage,"Diet Coke 33cl",11:36:04,"42 7th Parkway",,Queens,0007Q,0
+ORD_00271,7.00,9,Dessert,"Banoffee Pie",11:08:55,"42 7th Parkway",,Queens,0007Q,1
+ORD_00271,5.00,7,Side,Breadsticks,11:08:55,"42 7th Parkway",,Queens,0007Q,1
+ORD_00271,12.00,10,Pizza,"Pizza Margherita Regular",11:08:55,"42 7th Parkway",,Queens,0007Q,1
+ORD_00272,7.00,10,Side,"Caesar Salad",13:09:17,"42 7th Parkway",,Queens,0007Q,1
+ORD_00272,3.00,10,Beverage,"Fanta 33cl",13:09:17,"42 7th Parkway",,Queens,0007Q,1
+ORD_00272,6.00,10,Beverage,"Fanta 1.5l",13:09:17,"42 7th Parkway",,Queens,0007Q,1
+ORD_00273,4.00,5,Beverage,"Sparkling Water 1.5l",19:42:18,"42 7th Parkway",,Queens,0007Q,0
+ORD_00273,20.00,10,Pizza,"Pizza Seafood Large",19:42:18,"42 7th Parkway",,Queens,0007Q,0
+ORD_00273,16.00,5,Pizza,"Pizza Diavola Regular",19:42:18,"42 7th Parkway",,Queens,0007Q,0
+ORD_00273,15.00,4,Pizza,"Pizza Pepperoni Regular",19:42:18,"42 7th Parkway",,Queens,0007Q,0
+ORD_00274,4.00,9,Beverage,"Sparkling Water 1.5l",21:34:42,"42 7th Parkway",,Queens,0007Q,1
+ORD_00274,14.00,10,Pizza,"Pizza Margherita Large",21:34:42,"42 7th Parkway",,Queens,0007Q,1
+ORD_00274,19.00,7,Pizza,"Pizza Quattro Formaggi Large",21:34:42,"42 7th Parkway",,Queens,0007Q,1
+ORD_00274,19.00,7,Pizza,"Pizza Quattro Formaggi Large",21:34:42,"42 7th Parkway",,Queens,0007Q,1
+ORD_00274,5.00,7,Dessert,"Fruit salad",21:34:42,"42 7th Parkway",,Queens,0007Q,1
+ORD_00275,6.00,1,Dessert,"Pistachio Ice Crearn",11:16:01,"42 7th Parkway",,Queens,0007Q,1
+ORD_00275,7.00,3,Side,"Caesar Salad",11:16:01,"42 7th Parkway",,Queens,0007Q,1
+ORD_00276,6.00,6,Dessert,"Chocolate Ice Cream",19:11:52,"42 7th Parkway",,Queens,0007Q,0
+ORD_00277,16.00,2,Pizza,"Pizza Diavola Regular",13:50:50,"1 Pierstorff Street","Apt 437",Manhattan,0001M,1
+ORD_00277,16.00,9,Pizza,"Pizza Diavola Regular",13:50:50,"1 Pierstorff Street","Apt 437",Manhattan,0001M,1
+ORD_00277,6.00,1,Side,"Garlic Bread",13:50:50,"1 Pierstorff Street","Apt 437",Manhattan,0001M,1
+ORD_00278,6.00,10,Dessert,"Chocolate Ice Cream",19:58:02,"1 Pierstorff Street","Apt 437",Manhattan,0001M,1
+ORD_00278,19.00,6,Pizza,"Pizza Quattro Formaggi Large",19:58:02,"1 Pierstorff Street","Apt 437",Manhattan,0001M,1
+ORD_00278,20.00,1,Pizza,"Pizza Seafood Large",19:58:02,"1 Pierstorff Street","Apt 437",Manhattan,0001M,1
+ORD_00279,7.00,6,Dessert,"Banoffee Pie",10:54:33,"1 Pierstorff Street","Apt 437",Manhattan,0001M,0
+ORD_00279,15.00,5,Pizza,"Pizza Parmigiana Regular",10:54:33,"1 Pierstorff Street","Apt 437",Manhattan,0001M,0
+ORD_00280,4.00,5,Beverage,"Sparkling Water 1.5l",22:55:20,"1 Pierstorff Street","Apt 437",Manhattan,0001M,0
+ORD_00280,3.00,4,Beverage,"Coca Cola 33cl",22:55:20,"1 Pierstorff Street","Apt 437",Manhattan,0001M,0
+ORD_00280,6.00,8,Beverage,"Diet Coke 1.5l",22:55:20,"1 Pierstorff Street","Apt 437",Manhattan,0001M,0
+ORD_00280,19.00,5,Pizza,"Pizza Diavola Large",22:55:20,"1 Pierstorff Street","Apt 437",Manhattan,0001M,0
+ORD_00280,7.00,3,Side,"Caesar Salad",22:55:20,"1 Pierstorff Street","Apt 437",Manhattan,0001M,0
+ORD_00281,19.00,2,Pizza,"Pizza Quattro Formaggi Large",13:30:41,"1 Pierstorff Street","Apt 437",Manhattan,0001M,1
+ORD_00282,6.00,4,Dessert,"Vanilla Ice Cream",22:52:17,"863 Tennyson Parkway",,Brooklyn,0005B,1
+ORD_00282,17.00,9,Pizza,"Pizza Hawaiian Large",22:52:17,"863 Tennyson Parkway",,Brooklyn,0005B,1
+ORD_00282,18.00,2,Pizza,"Pizza Napolitana Large",22:52:17,"863 Tennyson Parkway",,Brooklyn,0005B,1
+ORD_00283,17.00,7,Pizza,"Pizza Seafood Regular",19:26:10,"863 Tennyson Parkway",,Brooklyn,0005B,0
+ORD_00284,6.00,7,Beverage,"Coca Cola 1.5l",19:50:01,"59 Stoughton Plaza",,Queens,0007Q,1
+ORD_00284,18.00,1,Pizza,"Pizza Napolitana Large",19:50:01,"59 Stoughton Plaza",,Queens,0007Q,1
+ORD_00284,16.00,6,Pizza,"Pizza Diavola Regular",19:50:01,"59 Stoughton Plaza",,Queens,0007Q,1
+ORD_00285,6.00,4,Beverage,"7 Up 1.5l",21:31:09,"59 Stoughton Plaza",,Queens,0007Q,1
+ORD_00286,3.00,1,Beverage,"Diet Coke 33cl",22:42:32,"752 Towne Alley",,Brooklyn,0005B,0
+ORD_00287,16.00,8,Pizza,"Pizza Diavola Regular",19:27:10,"7287 Fuller Place",,Manhattan,0001M,1
+ORD_00287,5.00,2,Side,Breadsticks,19:27:10,"7287 Fuller Place",,Manhattan,0001M,1
+ORD_00287,17.00,4,Pizza,"Pizza Hawaiian Large",19:27:10,"7287 Fuller Place",,Manhattan,0001M,1
+ORD_00287,18.00,7,Pizza,"Pizza Parmigiana Large",19:27:10,"7287 Fuller Place",,Manhattan,0001M,1
+ORD_00289,7.00,2,Side,"Chicken Wings",18:38:14,"7287 Fuller Place",,Manhattan,0001M,0
+ORD_00290,6.00,8,Dessert,"Pistachio Ice Crearn",22:57:47,"663 Miller Circle","Suite 96",Bronx,0004B,0
+ORD_00290,2.00,9,Beverage,"Sparkling Water 33cl",22:57:47,"663 Miller Circle","Suite 96",Bronx,0004B,0
+ORD_00290,7.00,2,Dessert,"Banoffee Pie",22:57:47,"663 Miller Circle","Suite 96",Bronx,0004B,0
+ORD_00291,18.00,4,Pizza,"Pizza Parmigiana Large",19:07:39,"663 Miller Circle","Suite 96",Bronx,0004B,1
+ORD_00291,6.00,6,Dessert,"Strawberry Ice Cream",19:07:39,"663 Miller Circle","Suite 96",Bronx,0004B,1
+ORD_00291,5.00,6,Dessert,"Fruit salad",19:07:39,"663 Miller Circle","Suite 96",Bronx,0004B,1
+ORD_00291,18.00,5,Pizza,"Pizza Napolitana Large",19:07:39,"663 Miller Circle","Suite 96",Bronx,0004B,1
+ORD_00291,3.00,6,Beverage,"Diet Coke 33cl",19:07:39,"663 Miller Circle","Suite 96",Bronx,0004B,1
+ORD_00293,16.00,7,Pizza,"Pizza Quattro Formaggi Regular",22:52:23,"663 Miller Circle","Suite 96",Bronx,0004B,0
+ORD_00293,16.00,10,Pizza,"Pizza Quattro Formaggi Regular",22:52:23,"663 Miller Circle","Suite 96",Bronx,0004B,0
+ORD_00293,17.00,9,Pizza,"Pizza Pepperoni Large",22:52:23,"663 Miller Circle","Suite 96",Bronx,0004B,0
+ORD_00293,5.00,2,Dessert,"Fruit salad",22:52:23,"663 Miller Circle","Suite 96",Bronx,0004B,0
+ORD_00293,6.00,6,Beverage,"Fanta 1.5l",22:52:23,"663 Miller Circle","Suite 96",Bronx,0004B,0
+ORD_00294,6.00,1,Beverage,"Diet Coke 1.5l",11:19:31,"663 Miller Circle","Suite 96",Bronx,0004B,1
+ORD_00294,7.00,7,Dessert,"Banoffee Pie",11:19:31,"663 Miller Circle","Suite 96",Bronx,0004B,1
+ORD_00294,5.00,1,Dessert,"Chocolate Brownie",11:19:31,"663 Miller Circle","Suite 96",Bronx,0004B,1
+ORD_00294,2.00,6,Beverage,"Sparkling Water 33cl",11:19:31,"663 Miller Circle","Suite 96",Bronx,0004B,1
+ORD_00295,6.00,1,Side,"Garlic Bread",20:12:45,"663 Miller Circle","Suite 96",Bronx,0004B,1
+ORD_00295,16.00,5,Pizza,"Pizza Diavola Regular",20:12:45,"663 Miller Circle","Suite 96",Bronx,0004B,1
+ORD_00295,5.00,7,Dessert,"Fruit salad",20:12:45,"663 Miller Circle","Suite 96",Bronx,0004B,1
+ORD_00295,15.00,1,Pizza,"Pizza Parmigiana Regular",20:12:45,"663 Miller Circle","Suite 96",Bronx,0004B,1
+ORD_00296,20.00,5,Pizza,"Pizza Seafood Large",22:10:31,"663 Miller Circle","Suite 96",Bronx,0004B,0
+ORD_00296,18.00,4,Pizza,"Pizza Parmigiana Large",22:10:31,"663 Miller Circle","Suite 96",Bronx,0004B,0
+ORD_00296,17.00,8,Pizza,"Pizza Pepperoni Large",22:10:31,"663 Miller Circle","Suite 96",Bronx,0004B,0
+ORD_00296,14.00,6,Pizza,"Pizza Margherita Large",22:10:31,"663 Miller Circle","Suite 96",Bronx,0004B,0
+ORD_00297,5.00,2,Dessert,"Chocolate Brownie",22:02:04,"663 Miller Circle","Suite 96",Bronx,0004B,1
+ORD_00297,5.00,8,Dessert,"Fruit salad",22:02:04,"663 Miller Circle","Suite 96",Bronx,0004B,1
+ORD_00297,14.00,5,Pizza,"Pizza Margherita Large",22:02:04,"663 Miller Circle","Suite 96",Bronx,0004B,1
+ORD_00299,16.00,9,Pizza,"Pizza Diavola Regular",18:41:08,"663 Miller Circle","Suite 96",Bronx,0004B,0
+ORD_00299,6.00,1,Beverage,"Coca Cola 1.5l",18:41:08,"663 Miller Circle","Suite 96",Bronx,0004B,0
+ORD_00299,5.00,2,Side,Breadsticks,18:41:08,"663 Miller Circle","Suite 96",Bronx,0004B,0
+ORD_00299,12.00,4,Pizza,"Pizza Margherita Regular",18:41:08,"663 Miller Circle","Suite 96",Bronx,0004B,0
+ORD_00300,4.00,9,Beverage,"Sparkling Water 1.5l",20:25:26,"663 Miller Circle","Suite 96",Bronx,0004B,0
+ORD_00300,5.00,10,Dessert,"Fruit salad",20:25:26,"663 Miller Circle","Suite 96",Bronx,0004B,0
+ORD_00300,15.00,3,Pizza,"Pizza Hawaiian Regular",20:25:26,"663 Miller Circle","Suite 96",Bronx,0004B,0
+ORD_00300,3.00,7,Beverage,"Coca Cola 33cl",20:25:26,"663 Miller Circle","Suite 96",Bronx,0004B,0
+ORD_00301,2.00,9,Beverage,"Sparkling Water 33cl",10:47:35,"663 Miller Circle","Suite 96",Bronx,0004B,1
+ORD_00301,16.00,4,Pizza,"Pizza Napolitana Regular",10:47:35,"663 Miller Circle","Suite 96",Bronx,0004B,1
+ORD_00302,6.00,8,Dessert,"Pistachio Ice Crearn",21:09:01,"663 Miller Circle","Suite 96",Bronx,0004B,1
+ORD_00302,17.00,5,Pizza,"Pizza Pepperoni Large",21:09:01,"663 Miller Circle","Suite 96",Bronx,0004B,1
+ORD_00302,16.00,2,Pizza,"Pizza Diavola Regular",21:09:01,"663 Miller Circle","Suite 96",Bronx,0004B,1
+ORD_00302,6.00,5,Dessert,"Chocolate Ice Cream",21:09:01,"663 Miller Circle","Suite 96",Bronx,0004B,1
+ORD_00302,3.00,1,Beverage,"Diet Coke 33cl",21:09:01,"663 Miller Circle","Suite 96",Bronx,0004B,1
+ORD_00302,16.00,1,Pizza,"Pizza Diavola Regular",21:09:01,"663 Miller Circle","Suite 96",Bronx,0004B,1
+ORD_00303,7.00,9,Side,"Caesar Salad",12:08:27,"663 Miller Circle","Suite 96",Bronx,0004B,0
+ORD_00303,3.00,7,Beverage,"Fanta 33cl",12:08:27,"663 Miller Circle","Suite 96",Bronx,0004B,0
+ORD_00303,6.00,5,Side,"Garlic Bread",12:08:27,"663 Miller Circle","Suite 96",Bronx,0004B,0
+ORD_00306,6.00,6,Dessert,"Chocolate Ice Cream",21:20:26,"663 Miller Circle","Suite 96",Bronx,0004B,0
+ORD_00306,7.00,7,Side,"Caesar Salad",21:20:26,"663 Miller Circle","Suite 96",Bronx,0004B,0
+ORD_00306,2.00,9,Beverage,"Sparkling Water 33cl",21:20:26,"663 Miller Circle","Suite 96",Bronx,0004B,0
+ORD_00307,3.00,2,Beverage,"Coca Cola 33cl",19:25:09,"663 Miller Circle","Suite 96",Bronx,0004B,1
+ORD_00307,5.00,5,Dessert,"Fruit salad",19:25:09,"663 Miller Circle","Suite 96",Bronx,0004B,1
+ORD_00308,6.00,6,Beverage,"Coca Cola 1.5l",12:19:17,"663 Miller Circle","Suite 96",Bronx,0004B,1
+ORD_00308,16.00,3,Pizza,"Pizza Diavola Regular",12:19:17,"663 Miller Circle","Suite 96",Bronx,0004B,1
+ORD_00308,5.00,1,Dessert,"Chocolate Brownie",12:19:17,"663 Miller Circle","Suite 96",Bronx,0004B,1
+ORD_00308,6.00,1,Beverage,"Diet Coke 1.5l",12:19:17,"663 Miller Circle","Suite 96",Bronx,0004B,1
+ORD_00309,6.00,4,Dessert,"Chocolate Ice Cream",12:24:25,"663 Miller Circle","Suite 96",Bronx,0004B,0
+ORD_00309,16.00,3,Pizza,"Pizza Quattro Formaggi Regular",12:24:25,"663 Miller Circle","Suite 96",Bronx,0004B,0
+ORD_00310,18.00,9,Pizza,"Pizza Napolitana Large",19:41:12,"663 Miller Circle","Suite 96",Bronx,0004B,0
+ORD_00310,6.00,2,Beverage,"Fanta 1.5l",19:41:12,"663 Miller Circle","Suite 96",Bronx,0004B,0
+ORD_00311,3.00,6,Beverage,"Coca Cola 33cl",11:49:42,"663 Miller Circle","Suite 96",Bronx,0004B,1
+ORD_00311,6.00,1,Dessert,"Chocolate Ice Cream",11:49:42,"663 Miller Circle","Suite 96",Bronx,0004B,1
+ORD_00313,6.00,5,Beverage,"Diet Coke 1.5l",21:33:06,"663 Miller Circle","Suite 96",Bronx,0004B,0
+ORD_00313,17.00,4,Pizza,"Pizza Hawaiian Large",21:33:06,"663 Miller Circle","Suite 96",Bronx,0004B,0
+ORD_00314,6.00,3,Beverage,"Fanta 1.5l",18:49:49,"663 Miller Circle","Suite 96",Bronx,0004B,1
+ORD_00314,19.00,2,Pizza,"Pizza Quattro Formaggi Large",18:49:49,"663 Miller Circle","Suite 96",Bronx,0004B,1
+ORD_00314,6.00,7,Beverage,"7 Up 1.5l",18:49:49,"663 Miller Circle","Suite 96",Bronx,0004B,1
+ORD_00315,6.00,2,Dessert,"Strawberry Ice Cream",19:59:36,"663 Miller Circle","Suite 96",Bronx,0004B,1
+ORD_00316,6.00,7,Beverage,"Fanta 1.5l",12:03:36,"7848 Arrowood Place",,Brooklyn,0005B,0
+ORD_00317,6.00,10,Beverage,"Diet Coke 1.5l",20:09:17,"2144 Lyons Lane","Room 165",Manhattan,0001M,1
+ORD_00317,3.00,3,Beverage,"Coca Cola 33cl",20:09:17,"2144 Lyons Lane","Room 165",Manhattan,0001M,1
+ORD_00317,3.00,5,Beverage,"Coca Cola 33cl",20:09:17,"2144 Lyons Lane","Room 165",Manhattan,0001M,1
+ORD_00318,6.00,2,Beverage,"Diet Coke 1.5l",22:30:24,"2144 Lyons Lane","Room 165",Manhattan,0001M,1
+ORD_00318,20.00,5,Pizza,"Pizza Seafood Large",22:30:24,"2144 Lyons Lane","Room 165",Manhattan,0001M,1
+ORD_00318,5.00,6,Dessert,"Fruit salad",22:30:24,"2144 Lyons Lane","Room 165",Manhattan,0001M,1
+ORD_00318,6.00,8,Dessert,"Pistachio Ice Crearn",22:30:24,"2144 Lyons Lane","Room 165",Manhattan,0001M,1
+ORD_00319,6.00,5,Beverage,"Diet Coke 1.5l",19:36:10,"2144 Lyons Lane","Room 165",Manhattan,0001M,0
+ORD_00319,18.00,1,Pizza,"Pizza Parmigiana Large",19:36:10,"2144 Lyons Lane","Room 165",Manhattan,0001M,0
+ORD_00320,6.00,9,Dessert,"Vanilla Ice Cream",19:17:43,"2144 Lyons Lane","Room 165",Manhattan,0001M,0
+ORD_00320,20.00,2,Pizza,"Pizza Seafood Large",19:17:43,"2144 Lyons Lane","Room 165",Manhattan,0001M,0
+ORD_00320,2.00,1,Beverage,"Sparkling Water 33cl",19:17:43,"2144 Lyons Lane","Room 165",Manhattan,0001M,0
+ORD_00321,3.00,5,Beverage,"Diet Coke 33cl",12:36:02,"2144 Lyons Lane","Room 165",Manhattan,0001M,1
+ORD_00322,18.00,4,Pizza,"Pizza Napolitana Large",13:08:06,"969 Almo Park",,Brooklyn,0005B,1
+ORD_00322,20.00,4,Pizza,"Pizza Seafood Large",13:08:06,"969 Almo Park",,Brooklyn,0005B,1
+ORD_00322,14.00,1,Pizza,"Pizza Margherita Large",13:08:06,"969 Almo Park",,Brooklyn,0005B,1
+ORD_00322,4.00,6,Beverage,"Sparkling Water 1.5l",13:08:06,"969 Almo Park",,Brooklyn,0005B,1
+ORD_00322,16.00,6,Pizza,"Pizza Diavola Regular",13:08:06,"969 Almo Park",,Brooklyn,0005B,1
+ORD_00322,6.00,9,Dessert,"Chocolate Ice Cream",13:08:06,"969 Almo Park",,Brooklyn,0005B,1
+ORD_00323,7.00,6,Side,"Chicken Wings",21:50:52,"969 Almo Park",,Brooklyn,0005B,0
+ORD_00324,6.00,2,Beverage,"Diet Coke 1.5l",12:34:04,"3480 Anthes Pass",,Brooklyn,0005B,1
+ORD_00324,12.00,2,Pizza,"Pizza Margherita Regular",12:34:04,"3480 Anthes Pass",,Brooklyn,0005B,1
+ORD_00325,6.00,1,Dessert,"Strawberry Ice Cream",10:41:37,"3480 Anthes Pass",,Brooklyn,0005B,1
+ORD_00325,6.00,5,Beverage,"Diet Coke 1.5l",10:41:37,"3480 Anthes Pass",,Brooklyn,0005B,1
+ORD_00325,20.00,7,Pizza,"Pizza Seafood Large",10:41:37,"3480 Anthes Pass",,Brooklyn,0005B,1
+ORD_00325,3.00,5,Beverage,"Diet Coke 33cl",10:41:37,"3480 Anthes Pass",,Brooklyn,0005B,1
+ORD_00325,19.00,7,Pizza,"Pizza Diavola Large",10:41:37,"3480 Anthes Pass",,Brooklyn,0005B,1
+ORD_00326,17.00,4,Pizza,"Pizza Hawaiian Large",18:33:17,"3480 Anthes Pass",,Brooklyn,0005B,0
+ORD_00326,19.00,4,Pizza,"Pizza Diavola Large",18:33:17,"3480 Anthes Pass",,Brooklyn,0005B,0
+ORD_00326,6.00,4,Beverage,"Fanta 1.5l",18:33:17,"3480 Anthes Pass",,Brooklyn,0005B,0
+ORD_00327,6.00,2,Beverage,"Fanta 1.5l",21:38:10,"3480 Anthes Pass",,Brooklyn,0005B,1
+ORD_00327,6.00,2,Dessert,"Strawberry Ice Cream",21:38:10,"3480 Anthes Pass",,Brooklyn,0005B,1
+ORD_00327,19.00,5,Pizza,"Pizza Diavola Large",21:38:10,"3480 Anthes Pass",,Brooklyn,0005B,1
+ORD_00328,6.00,3,Beverage,"Diet Coke 1.5l",18:48:06,"3480 Anthes Pass",,Brooklyn,0005B,1
+ORD_00328,6.00,3,Dessert,"Chocolate Ice Cream",18:48:06,"3480 Anthes Pass",,Brooklyn,0005B,1
+ORD_00329,16.00,5,Pizza,"Pizza Quattro Formaggi Regular",12:22:18,"3480 Anthes Pass",,Brooklyn,0005B,0
+ORD_00330,16.00,2,Pizza,"Pizza Napolitana Regular",13:11:19,"99 Continental Pass",,Bronx,0004B,0
+ORD_00330,6.00,8,Beverage,"Fanta 1.5l",13:11:19,"99 Continental Pass",,Bronx,0004B,0
+ORD_00331,15.00,1,Pizza,"Pizza Pepperoni Regular",11:28:27,"99 Continental Pass",,Bronx,0004B,1
+ORD_00331,3.00,1,Beverage,"Coca Cola 33cl",11:28:27,"99 Continental Pass",,Bronx,0004B,1
+ORD_00331,17.00,5,Pizza,"Pizza Hawaiian Large",11:28:27,"99 Continental Pass",,Bronx,0004B,1
+ORD_00332,4.00,6,Beverage,"Sparkling Water 1.5l",20:42:45,"99 Continental Pass",,Bronx,0004B,1
+ORD_00334,7.00,6,Dessert,"Banoffee Pie",13:57:11,"663 Miller Circle","Suite 96",Bronx,0004B,1
+ORD_00334,6.00,7,Beverage,"Diet Coke 1.5l",13:57:11,"663 Miller Circle","Suite 96",Bronx,0004B,1
+ORD_00335,3.00,7,Beverage,"Coca Cola 33cl",11:05:14,"663 Miller Circle","Suite 96",Bronx,0004B,1
+ORD_00335,2.00,6,Beverage,"Sparkling Water 33cl",11:05:14,"663 Miller Circle","Suite 96",Bronx,0004B,1
+ORD_00336,6.00,8,Beverage,"7 Up 1.5l",19:09:50,"663 Miller Circle","Suite 96",Bronx,0004B,0
+ORD_00336,16.00,6,Pizza,"Pizza Diavola Regular",19:09:50,"663 Miller Circle","Suite 96",Bronx,0004B,0
+ORD_00336,3.00,5,Beverage,"7 Up 33cl",19:09:50,"663 Miller Circle","Suite 96",Bronx,0004B,0
+ORD_00337,19.00,3,Pizza,"Pizza Diavola Large",13:34:07,"663 Miller Circle","Suite 96",Bronx,0004B,1
+ORD_00338,19.00,7,Pizza,"Pizza Quattro Formaggi Large",11:57:26,"03250 Miller Park",,Queens,0007Q,1
+ORD_00339,18.00,2,Pizza,"Pizza Napolitana Large",13:09:04,"3168 Clemons Road",,Queens,0007Q,0
+ORD_00339,2.00,9,Beverage,"Sparkling Water 33cl",13:09:04,"3168 Clemons Road",,Queens,0007Q,0
+ORD_00339,7.00,6,Side,"Caesar Salad",13:09:04,"3168 Clemons Road",,Queens,0007Q,0
+ORD_00340,17.00,5,Pizza,"Pizza Seafood Regular",10:45:21,"3168 Clemons Road",,Queens,0007Q,0
+ORD_00342,6.00,8,Dessert,"Strawberry Ice Cream",12:30:25,"695 Sunbrook Avenue",,"Staten Island",0010SI,1
+ORD_00342,15.00,1,Pizza,"Pizza Parmigiana Regular",12:30:25,"695 Sunbrook Avenue",,"Staten Island",0010SI,1
+ORD_00342,17.00,9,Pizza,"Pizza Seafood Regular",12:30:25,"695 Sunbrook Avenue",,"Staten Island",0010SI,1
+ORD_00342,15.00,3,Pizza,"Pizza Hawaiian Regular",12:30:25,"695 Sunbrook Avenue",,"Staten Island",0010SI,1
+ORD_00343,6.00,4,Side,"Garlic Bread",13:25:47,"695 Sunbrook Avenue",,"Staten Island",0010SI,0
+ORD_00343,6.00,9,Beverage,"Diet Coke 1.5l",13:25:47,"695 Sunbrook Avenue",,"Staten Island",0010SI,0
+ORD_00343,3.00,9,Beverage,"7 Up 33cl",13:25:47,"695 Sunbrook Avenue",,"Staten Island",0010SI,0
+ORD_00344,7.00,5,Side,"Caesar Salad",12:36:13,"695 Sunbrook Avenue",,"Staten Island",0010SI,1
+ORD_00344,6.00,1,Beverage,"Diet Coke 1.5l",12:36:13,"695 Sunbrook Avenue",,"Staten Island",0010SI,1
+ORD_00345,17.00,8,Pizza,"Pizza Hawaiian Large",12:36:28,"695 Sunbrook Avenue",,"Staten Island",0010SI,1
+ORD_00345,17.00,5,Pizza,"Pizza Pepperoni Large",12:36:28,"695 Sunbrook Avenue",,"Staten Island",0010SI,1
+ORD_00345,20.00,1,Pizza,"Pizza Seafood Large",12:36:28,"695 Sunbrook Avenue",,"Staten Island",0010SI,1
+ORD_00345,6.00,7,Beverage,"Fanta 1.5l",12:36:28,"695 Sunbrook Avenue",,"Staten Island",0010SI,1
+ORD_00346,5.00,8,Side,Breadsticks,22:03:37,"695 Sunbrook Avenue",,"Staten Island",0010SI,0
+ORD_00346,20.00,3,Pizza,"Pizza Seafood Large",22:03:37,"695 Sunbrook Avenue",,"Staten Island",0010SI,0
+ORD_00347,5.00,10,Dessert,"Chocolate Brownie",10:50:39,"695 Sunbrook Avenue",,"Staten Island",0010SI,1
+ORD_00348,5.00,9,Side,Breadsticks,10:38:06,"4 Maple Wood Street",,Manhattan,0001M,1
+ORD_00348,6.00,4,Side,"Garlic Bread",10:38:06,"4 Maple Wood Street",,Manhattan,0001M,1
+ORD_00349,3.00,3,Beverage,"Coca Cola 33cl",18:48:22,"4 Maple Wood Street",,Manhattan,0001M,0
+ORD_00349,17.00,9,Pizza,"Pizza Hawaiian Large",18:48:22,"4 Maple Wood Street",,Manhattan,0001M,0
+ORD_00349,6.00,6,Beverage,"Fanta 1.5l",18:48:22,"4 Maple Wood Street",,Manhattan,0001M,0
+ORD_00349,15.00,3,Pizza,"Pizza Parmigiana Regular",18:48:22,"4 Maple Wood Street",,Manhattan,0001M,0
+ORD_00350,7.00,3,Dessert,"Banoffee Pie",22:45:33,"4 Maple Wood Street",,Manhattan,0001M,0
+ORD_00351,16.00,9,Pizza,"Pizza Quattro Formaggi Regular",13:08:31,"86 Jay Alley",,Queens,0007Q,1
+ORD_00351,3.00,4,Beverage,"Fanta 33cl",13:08:31,"86 Jay Alley",,Queens,0007Q,1
+ORD_00352,6.00,5,Beverage,"Fanta 1.5l",12:24:25,"86 Jay Alley",,Queens,0007Q,1
+ORD_00353,6.00,5,Dessert,"Strawberry Ice Cream",20:33:42,"92953 Elka Way",,"Staten Island",0010SI,0
+ORD_00354,15.00,9,Pizza,"Pizza Hawaiian Regular",11:31:07,"9 Lunder Place",,"Staten Island",0010SI,1
+ORD_00354,6.00,3,Dessert,"Pistachio Ice Crearn",11:31:07,"9 Lunder Place",,"Staten Island",0010SI,1
+ORD_00354,6.00,3,Beverage,"Coca Cola 1.5l",11:31:07,"9 Lunder Place",,"Staten Island",0010SI,1
+ORD_00354,16.00,7,Pizza,"Pizza Quattro Formaggi Regular",11:31:07,"9 Lunder Place",,"Staten Island",0010SI,1
+ORD_00354,19.00,7,Pizza,"Pizza Diavola Large",11:31:07,"9 Lunder Place",,"Staten Island",0010SI,1
+ORD_00354,7.00,8,Dessert,"Banoffee Pie",11:31:07,"9 Lunder Place",,"Staten Island",0010SI,1
+ORD_00355,7.00,4,Side,"Chicken Wings",20:19:07,"9 Lunder Place",,"Staten Island",0010SI,1
+ORD_00356,6.00,1,Beverage,"Diet Coke 1.5l",19:11:56,"1 Schurz Place",,Manhattan,0001M,0
+ORD_00356,6.00,9,Beverage,"Coca Cola 1.5l",19:11:56,"1 Schurz Place",,Manhattan,0001M,0
+ORD_00356,16.00,3,Pizza,"Pizza Quattro Formaggi Regular",19:11:56,"1 Schurz Place",,Manhattan,0001M,0
+ORD_00356,17.00,1,Pizza,"Pizza Seafood Regular",19:11:56,"1 Schurz Place",,Manhattan,0001M,0
+ORD_00357,5.00,1,Dessert,"Fruit salad",19:35:46,"1 Schurz Place",,Manhattan,0001M,1
+ORD_00357,3.00,4,Beverage,"Coca Cola 33cl",19:35:46,"1 Schurz Place",,Manhattan,0001M,1
+ORD_00357,17.00,3,Pizza,"Pizza Pepperoni Large",19:35:46,"1 Schurz Place",,Manhattan,0001M,1
+ORD_00358,3.00,1,Beverage,"Fanta 33cl",12:45:52,"1 Schurz Place",,Manhattan,0001M,1
+ORD_00358,6.00,10,Side,"Garlic Bread",12:45:52,"1 Schurz Place",,Manhattan,0001M,1
+ORD_00359,16.00,3,Pizza,"Pizza Quattro Formaggi Regular",21:05:27,"1 Schurz Place",,Manhattan,0001M,0
+ORD_00359,6.00,6,Beverage,"Diet Coke 1.5l",21:05:27,"1 Schurz Place",,Manhattan,0001M,0
+ORD_00361,6.00,9,Dessert,"Pistachio Ice Crearn",11:20:07,"1 Schurz Place",,Manhattan,0001M,1
+ORD_00361,6.00,3,Dessert,"Chocolate Ice Cream",11:20:07,"1 Schurz Place",,Manhattan,0001M,1
+ORD_00363,6.00,9,Dessert,"Vanilla Ice Cream",12:39:28,"1 Schurz Place",,Manhattan,0001M,0
+ORD_00364,16.00,9,Pizza,"Pizza Quattro Formaggi Regular",19:00:34,"64950 Tennyson Pass",,Queens,0007Q,1
+ORD_00364,19.00,4,Pizza,"Pizza Quattro Formaggi Large",19:00:34,"64950 Tennyson Pass",,Queens,0007Q,1
+ORD_00365,16.00,7,Pizza,"Pizza Diavola Regular",13:04:41,"64950 Tennyson Pass",,Queens,0007Q,1
+ORD_00365,6.00,1,Dessert,"Chocolate Ice Cream",13:04:41,"64950 Tennyson Pass",,Queens,0007Q,1
+ORD_00366,6.00,6,Dessert,"Chocolate Ice Cream",21:14:08,"64950 Tennyson Pass",,Queens,0007Q,0
+ORD_00366,2.00,4,Beverage,"Sparkling Water 33cl",21:14:08,"64950 Tennyson Pass",,Queens,0007Q,0
+ORD_00367,16.00,1,Pizza,"Pizza Diavola Regular",21:46:26,"64950 Tennyson Pass",,Queens,0007Q,1
+ORD_00367,15.00,6,Pizza,"Pizza Hawaiian Regular",21:46:26,"64950 Tennyson Pass",,Queens,0007Q,1
+ORD_00367,6.00,6,Beverage,"7 Up 1.5l",21:46:26,"64950 Tennyson Pass",,Queens,0007Q,1
+ORD_00367,16.00,1,Pizza,"Pizza Napolitana Regular",21:46:26,"64950 Tennyson Pass",,Queens,0007Q,1
+ORD_00368,16.00,3,Pizza,"Pizza Napolitana Regular",13:32:11,"64950 Tennyson Pass",,Queens,0007Q,1
+ORD_00368,3.00,8,Beverage,"Diet Coke 33cl",13:32:11,"64950 Tennyson Pass",,Queens,0007Q,1
+ORD_00368,18.00,9,Pizza,"Pizza Parmigiana Large",13:32:11,"64950 Tennyson Pass",,Queens,0007Q,1
+ORD_00368,6.00,5,Beverage,"Fanta 1.5l",13:32:11,"64950 Tennyson Pass",,Queens,0007Q,1
+ORD_00369,6.00,3,Dessert,"Chocolate Ice Cream",21:09:05,"64950 Tennyson Pass",,Queens,0007Q,0
+ORD_00371,6.00,6,Dessert,"Strawberry Ice Cream",10:43:14,"3869 Sutherland Way","Suite 16",Queens,0007Q,1
+ORD_00372,6.00,10,Beverage,"Coca Cola 1.5l",20:46:57,"8 Leroy Court",,Brooklyn,0005B,1
+ORD_00372,6.00,3,Beverage,"Diet Coke 1.5l",20:46:57,"8 Leroy Court",,Brooklyn,0005B,1
+ORD_00372,4.00,7,Beverage,"Sparkling Water 1.5l",20:46:57,"8 Leroy Court",,Brooklyn,0005B,1
+ORD_00372,3.00,2,Beverage,"Coca Cola 33cl",20:46:57,"8 Leroy Court",,Brooklyn,0005B,1
+ORD_00373,16.00,2,Pizza,"Pizza Diavola Regular",13:39:56,"8 Leroy Court",,Brooklyn,0005B,0
+ORD_00373,15.00,6,Pizza,"Pizza Pepperoni Regular",13:39:56,"8 Leroy Court",,Brooklyn,0005B,0
+ORD_00374,5.00,5,Dessert,"Chocolate Brownie",13:18:54,"8 Leroy Court",,Brooklyn,0005B,1
+ORD_00375,3.00,5,Beverage,"Diet Coke 33cl",21:05:12,"8 Dahle Hill",,Manhattan,0001M,1
+ORD_00375,12.00,8,Pizza,"Pizza Margherita Regular",21:05:12,"8 Dahle Hill",,Manhattan,0001M,1
+ORD_00375,18.00,3,Pizza,"Pizza Napolitana Large",21:05:12,"8 Dahle Hill",,Manhattan,0001M,1
+ORD_00375,17.00,1,Pizza,"Pizza Pepperoni Large",21:05:12,"8 Dahle Hill",,Manhattan,0001M,1
+ORD_00376,7.00,5,Dessert,"Banoffee Pie",10:43:38,"8 Dahle Hill",,Manhattan,0001M,0
+ORD_00376,6.00,10,Beverage,"Fanta 1.5l",10:43:38,"8 Dahle Hill",,Manhattan,0001M,0
+ORD_00376,6.00,6,Dessert,"Pistachio Ice Crearn",10:43:38,"8 Dahle Hill",,Manhattan,0001M,0
+ORD_00377,6.00,2,Side,"Garlic Bread",12:43:37,"8 Dahle Hill",,Manhattan,0001M,1
+ORD_00377,6.00,3,Dessert,"Vanilla Ice Cream",12:43:37,"8 Dahle Hill",,Manhattan,0001M,1
+ORD_00377,19.00,2,Pizza,"Pizza Quattro Formaggi Large",12:43:37,"8 Dahle Hill",,Manhattan,0001M,1
+ORD_00378,14.00,10,Pizza,"Pizza Margherita Large",18:45:50,"8 Dahle Hill",,Manhattan,0001M,1
+ORD_00378,14.00,3,Pizza,"Pizza Margherita Large",18:45:50,"8 Dahle Hill",,Manhattan,0001M,1
+ORD_00379,6.00,1,Dessert,"Pistachio Ice Crearn",11:07:40,"8 Dahle Hill",,Manhattan,0001M,0
+ORD_00379,15.00,3,Pizza,"Pizza Hawaiian Regular",11:07:40,"8 Dahle Hill",,Manhattan,0001M,0
+ORD_00379,15.00,6,Pizza,"Pizza Hawaiian Regular",11:07:40,"8 Dahle Hill",,Manhattan,0001M,0
+ORD_00379,5.00,7,Side,Breadsticks,11:07:40,"8 Dahle Hill",,Manhattan,0001M,0
+ORD_00379,6.00,5,Beverage,"Fanta 1.5l",11:07:40,"8 Dahle Hill",,Manhattan,0001M,0
+ORD_00379,19.00,2,Pizza,"Pizza Diavola Large",11:07:40,"8 Dahle Hill",,Manhattan,0001M,0
+ORD_00379,18.00,2,Pizza,"Pizza Napolitana Large",11:07:40,"8 Dahle Hill",,Manhattan,0001M,0
+ORD_00379,16.00,5,Pizza,"Pizza Quattro Formaggi Regular",11:07:40,"8 Dahle Hill",,Manhattan,0001M,0
+ORD_00380,7.00,6,Dessert,"Banoffee Pie",11:00:25,"8 Dahle Hill",,Manhattan,0001M,0
+ORD_00381,3.00,9,Beverage,"7 Up 33cl",20:12:34,"26555 Eastlawn Pass",,Bronx,0004B,1
+ORD_00381,18.00,6,Pizza,"Pizza Napolitana Large",20:12:34,"26555 Eastlawn Pass",,Bronx,0004B,1
+ORD_00382,5.00,2,Side,Breadsticks,19:12:20,"26555 Eastlawn Pass",,Bronx,0004B,1
+ORD_00382,2.00,4,Beverage,"Sparkling Water 33cl",19:12:20,"26555 Eastlawn Pass",,Bronx,0004B,1
+ORD_00383,6.00,3,Dessert,"Chocolate Ice Cream",21:57:56,"26555 Eastlawn Pass",,Bronx,0004B,0
+ORD_00384,14.00,1,Pizza,"Pizza Margherita Large",21:57:14,"066 Ronald Regan Trail","2nd Floor",Brooklyn,0005B,1
+ORD_00384,16.00,7,Pizza,"Pizza Quattro Formaggi Regular",21:57:14,"066 Ronald Regan Trail","2nd Floor",Brooklyn,0005B,1
+ORD_00384,3.00,1,Beverage,"Fanta 33cl",21:57:14,"066 Ronald Regan Trail","2nd Floor",Brooklyn,0005B,1
+ORD_00384,6.00,4,Side,"Garlic Bread",21:57:14,"066 Ronald Regan Trail","2nd Floor",Brooklyn,0005B,1
+ORD_00384,6.00,6,Beverage,"Coca Cola 1.5l",21:57:14,"066 Ronald Regan Trail","2nd Floor",Brooklyn,0005B,1
+ORD_00384,6.00,5,Beverage,"Coca Cola 1.5l",21:57:14,"066 Ronald Regan Trail","2nd Floor",Brooklyn,0005B,1
+ORD_00385,5.00,3,Dessert,"Chocolate Brownie",11:13:50,"066 Ronald Regan Trail","2nd Floor",Brooklyn,0005B,1
+ORD_00385,14.00,7,Pizza,"Pizza Margherita Large",11:13:50,"066 Ronald Regan Trail","2nd Floor",Brooklyn,0005B,1
+ORD_00386,6.00,7,Beverage,"Coca Cola 1.5l",12:35:17,"066 Ronald Regan Trail","2nd Floor",Brooklyn,0005B,0
+ORD_00388,14.00,7,Pizza,"Pizza Margherita Large",20:51:00,"3 Tennyson Alley",,Manhattan,0001M,1
+ORD_00388,15.00,5,Pizza,"Pizza Parmigiana Regular",20:51:00,"3 Tennyson Alley",,Manhattan,0001M,1
+ORD_00388,5.00,2,Side,Breadsticks,20:51:00,"3 Tennyson Alley",,Manhattan,0001M,1
+ORD_00388,4.00,4,Beverage,"Sparkling Water 1.5l",20:51:00,"3 Tennyson Alley",,Manhattan,0001M,1
+ORD_00389,6.00,3,Beverage,"Diet Coke 1.5l",11:45:12,"3 Tennyson Alley",,Manhattan,0001M,0
+ORD_00389,15.00,2,Pizza,"Pizza Hawaiian Regular",11:45:12,"3 Tennyson Alley",,Manhattan,0001M,0
+ORD_00389,15.00,6,Pizza,"Pizza Parmigiana Regular",11:45:12,"3 Tennyson Alley",,Manhattan,0001M,0
+ORD_00389,16.00,5,Pizza,"Pizza Quattro Formaggi Regular",11:45:12,"3 Tennyson Alley",,Manhattan,0001M,0
+ORD_00390,6.00,2,Dessert,"Vanilla Ice Cream",13:05:29,"3 Tennyson Alley",,Manhattan,0001M,0
+ORD_00390,7.00,5,Side,"Chicken Wings",13:05:29,"3 Tennyson Alley",,Manhattan,0001M,0
+ORD_00390,16.00,2,Pizza,"Pizza Diavola Regular",13:05:29,"3 Tennyson Alley",,Manhattan,0001M,0
+ORD_00391,7.00,1,Side,"Caesar Salad",11:46:30,"3 Tennyson Alley",,Manhattan,0001M,1
+ORD_00391,17.00,2,Pizza,"Pizza Pepperoni Large",11:46:30,"3 Tennyson Alley",,Manhattan,0001M,1
+ORD_00391,15.00,5,Pizza,"Pizza Parmigiana Regular",11:46:30,"3 Tennyson Alley",,Manhattan,0001M,1
+ORD_00391,17.00,5,Pizza,"Pizza Seafood Regular",11:46:30,"3 Tennyson Alley",,Manhattan,0001M,1
+ORD_00391,7.00,8,Dessert,"Banoffee Pie",11:46:30,"3 Tennyson Alley",,Manhattan,0001M,1
+ORD_00392,6.00,4,Dessert,"Chocolate Ice Cream",11:04:34,"3 Tennyson Alley",,Manhattan,0001M,1
+ORD_00392,15.00,6,Pizza,"Pizza Hawaiian Regular",11:04:34,"3 Tennyson Alley",,Manhattan,0001M,1
+ORD_00393,19.00,9,Pizza,"Pizza Diavola Large",21:32:00,"3 Tennyson Alley",,Manhattan,0001M,0
+ORD_00393,6.00,9,Dessert,"Strawberry Ice Cream",21:32:00,"3 Tennyson Alley",,Manhattan,0001M,0
+ORD_00393,17.00,3,Pizza,"Pizza Seafood Regular",21:32:00,"3 Tennyson Alley",,Manhattan,0001M,0
+ORD_00393,18.00,5,Pizza,"Pizza Parmigiana Large",21:32:00,"3 Tennyson Alley",,Manhattan,0001M,0
+ORD_00394,7.00,3,Dessert,"Banoffee Pie",18:35:10,"3 Tennyson Alley",,Manhattan,0001M,1
+ORD_00395,19.00,3,Pizza,"Pizza Diavola Large",13:20:22,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,1
+ORD_00395,6.00,7,Beverage,"Fanta 1.5l",13:20:22,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,1
+ORD_00395,15.00,5,Pizza,"Pizza Pepperoni Regular",13:20:22,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,1
+ORD_00396,20.00,1,Pizza,"Pizza Seafood Large",21:33:13,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,0
+ORD_00396,19.00,10,Pizza,"Pizza Quattro Formaggi Large",21:33:13,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,0
+ORD_00396,5.00,4,Dessert,"Chocolate Brownie",21:33:13,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,0
+ORD_00396,5.00,4,Side,Breadsticks,21:33:13,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,0
+ORD_00396,15.00,5,Pizza,"Pizza Hawaiian Regular",21:33:13,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,0
+ORD_00397,6.00,4,Dessert,"Pistachio Ice Crearn",22:08:11,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,1
+ORD_00397,17.00,2,Pizza,"Pizza Seafood Regular",22:08:11,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,1
+ORD_00397,6.00,2,Dessert,"Vanilla Ice Cream",22:08:11,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,1
+ORD_00398,5.00,5,Dessert,"Chocolate Brownie",21:31:39,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,1
+ORD_00398,16.00,2,Pizza,"Pizza Napolitana Regular",21:31:39,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,1
+ORD_00398,3.00,3,Beverage,"Diet Coke 33cl",21:31:39,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,1
+ORD_00398,17.00,10,Pizza,"Pizza Seafood Regular",21:31:39,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,1
+ORD_00400,6.00,5,Dessert,"Chocolate Ice Cream",10:47:14,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,0
+ORD_00400,17.00,4,Pizza,"Pizza Seafood Regular",10:47:14,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,0
+ORD_00400,15.00,2,Pizza,"Pizza Parmigiana Regular",10:47:14,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,0
+ORD_00400,15.00,6,Pizza,"Pizza Hawaiian Regular",10:47:14,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,0
+ORD_00401,19.00,3,Pizza,"Pizza Quattro Formaggi Large",12:42:49,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,1
+ORD_00401,6.00,6,Dessert,"Pistachio Ice Crearn",12:42:49,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,1
+ORD_00401,5.00,2,Dessert,"Chocolate Brownie",12:42:49,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,1
+ORD_00401,6.00,3,Dessert,"Pistachio Ice Crearn",12:42:49,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,1
+ORD_00402,17.00,4,Pizza,"Pizza Seafood Regular",22:44:14,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,1
+ORD_00403,6.00,7,Dessert,"Chocolate Ice Cream",10:59:56,"259 Arrowood Avenue",,Manhattan,0001M,0
+ORD_00403,15.00,4,Pizza,"Pizza Pepperoni Regular",10:59:56,"259 Arrowood Avenue",,Manhattan,0001M,0
+ORD_00403,5.00,1,Side,Breadsticks,10:59:56,"259 Arrowood Avenue",,Manhattan,0001M,0
+ORD_00404,2.00,1,Beverage,"Sparkling Water 33cl",12:06:20,"259 Arrowood Avenue",,Manhattan,0001M,1
+ORD_00404,6.00,3,Beverage,"Diet Coke 1.5l",12:06:20,"259 Arrowood Avenue",,Manhattan,0001M,1
+ORD_00405,17.00,8,Pizza,"Pizza Hawaiian Large",20:09:18,"259 Arrowood Avenue",,Manhattan,0001M,1
+ORD_00405,3.00,2,Beverage,"7 Up 33cl",20:09:18,"259 Arrowood Avenue",,Manhattan,0001M,1
+ORD_00406,17.00,3,Pizza,"Pizza Seafood Regular",12:50:17,"259 Arrowood Avenue",,Manhattan,0001M,0
+ORD_00406,2.00,10,Beverage,"Sparkling Water 33cl",12:50:17,"259 Arrowood Avenue",,Manhattan,0001M,0
+ORD_00406,15.00,3,Pizza,"Pizza Hawaiian Regular",12:50:17,"259 Arrowood Avenue",,Manhattan,0001M,0
+ORD_00407,7.00,1,Side,"Caesar Salad",11:12:50,"259 Arrowood Avenue",,Manhattan,0001M,1
+ORD_00407,7.00,1,Dessert,"Banoffee Pie",11:12:50,"259 Arrowood Avenue",,Manhattan,0001M,1
+ORD_00407,15.00,4,Pizza,"Pizza Pepperoni Regular",11:12:50,"259 Arrowood Avenue",,Manhattan,0001M,1
+ORD_00407,7.00,3,Dessert,"Banoffee Pie",11:12:50,"259 Arrowood Avenue",,Manhattan,0001M,1
+ORD_00409,5.00,7,Dessert,"Chocolate Brownie",12:36:20,"259 Arrowood Avenue",,Manhattan,0001M,0
+ORD_00409,16.00,2,Pizza,"Pizza Quattro Formaggi Regular",12:36:20,"259 Arrowood Avenue",,Manhattan,0001M,0
+ORD_00409,16.00,4,Pizza,"Pizza Diavola Regular",12:36:20,"259 Arrowood Avenue",,Manhattan,0001M,0
+ORD_00409,16.00,3,Pizza,"Pizza Quattro Formaggi Regular",12:36:20,"259 Arrowood Avenue",,Manhattan,0001M,0
+ORD_00409,6.00,4,Side,"Garlic Bread",12:36:20,"259 Arrowood Avenue",,Manhattan,0001M,0
+ORD_00409,7.00,2,Side,"Caesar Salad",12:36:20,"259 Arrowood Avenue",,Manhattan,0001M,0
+ORD_00409,6.00,2,Dessert,"Chocolate Ice Cream",12:36:20,"259 Arrowood Avenue",,Manhattan,0001M,0
+ORD_00410,17.00,5,Pizza,"Pizza Hawaiian Large",11:05:07,"259 Arrowood Avenue",,Manhattan,0001M,0
+ORD_00411,15.00,9,Pizza,"Pizza Parmigiana Regular",20:06:09,"8 Leroy Court",,Brooklyn,0005B,1
+ORD_00411,16.00,2,Pizza,"Pizza Quattro Formaggi Regular",20:06:09,"8 Leroy Court",,Brooklyn,0005B,1
+ORD_00411,17.00,6,Pizza,"Pizza Hawaiian Large",20:06:09,"8 Leroy Court",,Brooklyn,0005B,1
+ORD_00411,18.00,2,Pizza,"Pizza Parmigiana Large",20:06:09,"8 Leroy Court",,Brooklyn,0005B,1
+ORD_00412,20.00,4,Pizza,"Pizza Seafood Large",22:51:53,"8 Leroy Court",,Brooklyn,0005B,1
+ORD_00412,6.00,6,Side,"Garlic Bread",22:51:53,"8 Leroy Court",,Brooklyn,0005B,1
+ORD_00412,6.00,6,Beverage,"Diet Coke 1.5l",22:51:53,"8 Leroy Court",,Brooklyn,0005B,1
